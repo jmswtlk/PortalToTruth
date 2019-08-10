@@ -8,5 +8,5 @@ See https://tgsoc.org/tech/2019/08/09/home-at-last/ for a continuation of a them
 --- Will log here until I see how to do it better ---
 
 Uploaded the JS files. 
-
 Now, see how to update and sync changes here at the FTP site. 
+First branch and update. Now do a pull. Several other updates pending. 
