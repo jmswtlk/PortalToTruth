@@ -10,3 +10,5 @@ See https://tgsoc.org/tech/2019/08/09/home-at-last/ for a continuation of a them
 Uploaded the JS files. 
 Now, see how to update and sync changes here at the FTP site. 
 First branch and update. Now do a pull. Several other updates pending. 
+Brought in more files. Like the interface. Got a project page started. 
+Also, will be using Wiki (to have something familiar - have been hackign with textual editors primarily - content was the focus). 
