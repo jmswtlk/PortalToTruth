@@ -12,3 +12,5 @@ Now, see how to update and sync changes here at the FTP site.
 First branch and update. Now do a pull. Several other updates pending. 
 Brought in more files. Like the interface. Got a project page started. 
 Also, will be using Wiki (to have something familiar - have been hackign with textual editors primarily - content was the focus). 
+With a better view than the little text window, I can see more noise put in. Interesting. 
+Disclosure: my purpose was content which covered centuries along all sorts of threads. The computing aspects were considered secondary since information was the intent.  
