@@ -20,4 +20,5 @@ Also, will be using Wiki (to have something familiar - have been hackign with te
 
 11 -- Need to go through these. https://colorlib.com/wp/top-templating-engines-for-javascript/ Already know about mustache and a few others. We'll plan to update our main site, too, https://thomasgardnersociety.org after we relook at its history from aspx to about 2016. I see some of the templates are oriented to languages of interest: Julia, Common Lisp, ... 
 
+12 -- Packages, announced within the past 3 months, latest information about template use, javascript, ..., github's collection of user experiences, etc., ..., impressive, ..., will be creating another project, soon, plus put a blog into place to carry the theme, ..., lots of things to discuss, why do we what we do?, how do past choices impact us now? (software focus, of course - essentially, truth engineering), 
 
