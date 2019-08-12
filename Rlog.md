@@ -16,4 +16,6 @@ Also, will be using Wiki (to have something familiar - have been hackign with te
 
 9 - this is 8/12/19 8:02 (middle of the country) -- Oh yes, time. It flows too fast for the gold guy. Well, seems that the reading last night was from the 2013/2014 timeframe. Well, not too bad. Then, I looked at the template'd and bounced out. I had to do logic. Purtiness? We'll get to that. So, I come forward in time 2018 and then 2019 with a couple of stops in between. Ah, literal template. Yes. Then, HTML template. Wait, I could have used that rather than the hidden variables. But, again, when one is rushing configuration in order to work content, one minimizes. ... Don't have time, like some of these kids, to just play with code. ... Actually, never did that as I was always on an advanced team solving real problems. Albeit, we did get to SEI CMM Level 5 in that type of dynamic environment that involved products with a long timeframe. Why the rush? ... Schedule always was a huge factor. 
 
+10 -- I think, I'll be here for a few days getting things in order. Then, we'll be making changes and pushing them out to the website. Haven't mentioned it, but there'll be a Quora aspect to this work, to boot. 
+
 
