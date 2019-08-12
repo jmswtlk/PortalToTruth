@@ -18,4 +18,6 @@ Also, will be using Wiki (to have something familiar - have been hackign with te
 
 10 -- I think, I'll be here for a few days getting things in order. Then, we'll be making changes and pushing them out to the website. Haven't mentioned it, but there'll be a Quora aspect to this work, to boot. 
 
+11 -- Need to go through these. https://colorlib.com/wp/top-templating-engines-for-javascript/ Already know about mustache and a few others. We'll plan to update our main site, too, https://thomasgardnersociety.org after we relook at its history from aspx to about 2016. I see some of the templates are oriented to languages of interest: Julia, Common Lisp, ... 
+
 
