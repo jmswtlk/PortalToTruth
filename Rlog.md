@@ -1,4 +1,4 @@
-See https://jmswtlk.github.io/GitHub-ing/ to watch progress.
+See https://jmswtlk.github.io/GitHub-ing/ (and https://github.com/jmswtlk) to watch progress.
 
 
 Precursor to technical blogging that is following my introduction to GitHub. The idea here is that getting familiar with the cloud'd GitHub is being done with https://tgsoc.org as the focus. Or, our 'Portal to truth' with all sorts of meanings. I'll keep adding to the bottom until I work out a better method. See ReadMe for pointers to the work done to date. 
