@@ -2,7 +2,9 @@
 Covering 400 years of U.S. history with a minimal approach, tech and biz.
 
 ---
+
 See https://jmswtlk.github.io/GitHub-ing/ (and https://github.com/jmswtlk) to watch progress.
+
 ---
 
 For now, see https://tgsoc.org for the operational site. What pends discussion will be expanding biz and tech. The former will help manage the non-profit as well as access, etc. The latter is open ended, right now mapping to a WordPress blog. 
