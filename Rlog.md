@@ -26,3 +26,9 @@ Also, will be using Wiki (to have something familiar - have been hackign with te
 12 -- Packages, announced within the past 3 months, latest information about template use, javascript, ..., github's collection of user experiences, etc., ..., impressive, ..., will be creating another project, soon, plus put a blog into place to carry the theme, ..., lots of things to discuss, why do we what we do?, how do past choices impact us now? (software focus, of course - essentially, truth engineering), 
 
 13 -- Created the GitHub'ing project for handling overview issues. One of these will be a relook at the movement from .NET (aspx) to Linux/HTML to html/css/js in the context of the PortalToTruth. Then, there will be a recap of 30+ years of AI, in the trenches. Meaning, of course, commercial environment where we were resolving real problems in a timely manner using AI techniques that still have potential life. Perhaps, a hybird view might be necessary in order to integrate with new kid on the block that looks a little overbearing, quite frankly. Lots to discuss. Next step is to create a blog here. 
+
+---
+
+Note: 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
+
+
