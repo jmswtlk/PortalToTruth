@@ -1,4 +1,4 @@
-# PortalToTruth (showing a balance that is missing) 
+# PortalToTruth 
 Covering 400 years of U.S. history with a minimal approach, tech and biz.
 
 ---
@@ -20,4 +20,5 @@ Note: 08/13/2019 -- Kudos to GitHub. It's been three days, of dabbling (time con
 Note: 08/14/2019 -- Later today, will update the GitHub'ing default with appropriate material and links as we work to integrate GitHub into the process and begin using our improved methods. 
 
 Note: 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
+
 
