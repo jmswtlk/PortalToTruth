@@ -29,6 +29,10 @@ Also, will be using Wiki (to have something familiar - have been hackign with te
 
 ---
 
-Note: 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
+Note:
+
+08/27/2019 -- Looking to get the Actions (beta) going. 
+
+08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
 
 
