@@ -35,4 +35,4 @@ Note:
 
 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
 
-
+09/07/2019 -- Last two days show that I can get away. 30 days, tomorrow; all active, except for 2. 
