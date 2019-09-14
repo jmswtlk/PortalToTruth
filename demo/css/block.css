@@ -1,0 +1,58 @@
+/* HTML/CSS, to support mobile devices   */
+
+.header {
+  position: fixed;
+  top: 0px;
+  z-index: 100;
+  width: 90%;
+  left: 5%; 
+/* test stuff */
+  border: 0px solid black;
+} 
+
+.main {
+  position: relative;  
+  top:158px;
+  width: 85%;
+  left: 10%;  /* 1/2 of total - width */
+
+   height: 80%;
+/* test stuff */
+  border: 0px solid black;
+}
+
+.nav {
+  position: fixed;
+  top: 158px;
+  z-index: 10;
+  display: inline;
+  width: 80px;        /* tie with article */
+  left: 15%; 
+  float: left;
+  padding-left: 0px;
+/* test stuff */
+  border: 0px solid cyan;  
+}
+
+.article {
+  position: relative; 
+  left: 25%; 
+  width: 65%;    /* tie with nav */
+  background-color: #ffffff;
+  height: 97%
+
+/* test stuff */
+  border: 0px solid red;
+}
+
+.footer {
+  position: fixed;
+  left: 10%;
+  width: 80%;
+  text-align: center; 
+  background-color: #344b5e;
+  bottom:0px; 
+
+/* test stuff */
+  border: 0px solid yellow;
+}
