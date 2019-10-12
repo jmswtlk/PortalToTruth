@@ -21,4 +21,6 @@ Note: 08/14/2019 -- Later today, will update the GitHub'ing default with appropr
 
 Note: 08/16/2019 -- Got GitHub'ing set up with our own format from the PortalToTruth. Will review this for improvement after doing a process review. Notes will be posted at the public page while re-organization goes on. 
  
-Note: 09/07/2019 -- This was the first effort on GitHub; then, went over to GitHub'ing. 30 days, tomorrow. 
+Note: 09/07/2019 -- This was the first effort on GitHub; then, went over to <a href="https://jmswtlk.github.io/GitHub-ing/">GitHub'ing</a>. 30 days, tomorrow. 
+
+Note: 10/11/2019 -- Content and configuration. These two overlap. Too, they are nuanced, as in, no real delimitation. Except, there is this that AI will help us focus on: content deals with 'why?' and is away from the machine; configuration deals mostly with how in all of its aspects. 
