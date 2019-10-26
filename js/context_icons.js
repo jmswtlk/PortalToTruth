@@ -71,8 +71,8 @@ result.appendChild(div);
 2016 --   15
 2017 --   24
 2018 --   19
-2019 --   46     
-total -- 210
+2019 --   50     
+total -- 214
 */
 
 function setIconArray (){
@@ -294,9 +294,13 @@ iconArray = [
 ['2019/09/families-sites-and-such', 'SitesAndSuch'],
 ['2019/09/charter-street-cemetery-salem-ma', 'CharterStreet'],
 ['2019/09/gallows-and-more', 'SidneyPerley'],
-['2019/09/nathaniel-knapp', 'NathanielKnapp']
+['2019/09/nathaniel-knapp', 'NathanielKnapp'],
+['2019/10/measures-of-metrical', 'MeasuresMet'],
+['2019/10/gallows-hill', 'GallowsHillAgain'],
+['2019/10/thomas-and-wikitree', 'ThomasWikiTree'],
+['2019/10/about-generations', 'Generations']
 
-<!-- 2019 45 + 1 (image of Main site) -->
+<!-- 2019 49 + 1 (image of Main site) -->
 ]
 }
 
