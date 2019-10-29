@@ -25,10 +25,10 @@ var i;
 
 for (i=0; i< itemArray.length; i++) {
 
-if (parm1==i) {
+  if (parm1==i) {
     itext1+='<li><a class="active" href="">';
    }
-else { 
+  else { 
     itext1+='<li><a class="button" href="';
     if (parm2==1 & (i == 6 || i > 8)) {
        itext1+= '../' + itemArray[i][0] +'">';
@@ -36,19 +36,14 @@ else {
     else {
            itext1+= itemArray[i][0] +'">';
       }
-   }
+     }
 
-itext1+= itemArray[i][1] +'</a></li>'
-if (i == 6) { 
+  itext1+= itemArray[i][1] +'</a></li>'
+  if (i == 6) { 
    itext1+='<br><br>';
-  } 
-}
+   } 
+  }
 
-/*  temporary pointer to Biz and Tech  */ 
-itext1 += '<br><br><li><a class="button" href="https://tgsoc.org/biz/">Biz</a>'; 
-itext1 += '<br><li><a class="button" href="https://tgsoc.org/tech/">Tech</a>'; 
-
-itext1 +='</ul>';      
 
 /* console.log(itext1); */
 
@@ -61,14 +56,15 @@ itemArray = [
 ['https://tgsoc.org', 'Home'],
 ['https://thomasgardnersociety.org', 'Main site'],
 ['https://thomasgardnerofsalem.blogspot.com', 'Context blog'],
-['https://thomasgardnerofsalem.wordpress.com', 'Technology blog'],
+['https://tgsoc.org/tech/', 'Technology blog'],
 ['https://www.facebook.com/ThomasGardnerofSalem', 'FB page'],
 ['https://thomasgardnersociety.org/devlog.html', 'Devlog'],
-['Publications', 'Publications'],
+['Publications', 'Publications (Order)'],
 ['https://www.wikitree.com/wiki/Gardner-159', 'WikiTree'],
 ['https://thomasgardnersociety.org/html/search.html', 'Search'],
 ['ourRoll.html', 'Roll'],
 ['demo', 'Demo'],
+['biz', 'Biz (Donate)'],
 
 ];
 
