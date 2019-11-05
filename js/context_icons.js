@@ -31,7 +31,7 @@ var div = document.createElement('div');
 
 /* ----  write the floating images ---    */
 
-var i;
+var i, start=0, end=iconArray.length ;
 var dir;
 if (parm1==1){
  dir='../icons/'
@@ -39,19 +39,24 @@ if (parm1==1){
 else {
  dir='icons/'; 
 }
+console.log ('0 start = ' + start + '; end = ' + end); 
 
 var itext;
+var start_pick = 1; /* use this to test, if 0, does whole list, otherwise will pick a random starting place, default is 1 */
 
-for (i=0; i< iconArray.length; i++) {
-
-itext='<a class="float1"  href="https://thomasgardnerofsalem.blogspot.com/' + iconArray[i][0] + '.html"> <img src="' + dir + iconArray[i][1] +'.jpg"></a>';
-
-/* console.log(itext); */
-
-itext1+=itext;
-
+if (start_pick == 1){
+/* choose at a random place in the list within ten of the first and last elements of the data */ 
+  start = Math.floor((Math.random() * iconArray.length-20) +1);
+  console.log ('1 start = ' + start + '; end = ' + end); 
+  placeIcon ();
+/* get front of the list */ 
+  end = start, start = 0;
+  console.log ('2 start = ' + start + '; end = ' + end); 
 }
 
+placeIcon (); 
+
+/* anchor image that goes to the Main TGS site */ 
 itext1 +='<a class="float1" href="https://thomasgardnersociety.org"> <img src="' + dir + 'MainSite.jpg"></a>';      
 
 itext1 +='</div></div>';      
@@ -59,8 +64,20 @@ itext1 +='</div></div>';
 div.innerHTML = itext1;
 result.appendChild(div);
 
+/*       end of code, supporting functions          */
+function placeIcon() {
+
+for (i=start; i< end; i++) {
+
+itext='<a class="float1"  href="https://thomasgardnerofsalem.blogspot.com/' + iconArray[i][0] + '.html"> <img src="' + dir + iconArray[i][1] +'.jpg"></a>';
+
+itext1+=itext;
+
+}
+}
+
 /* count of posts covered by year
-         There are 380 posts as of 09/30/2019
+         There are 387 posts as of 10/31/2019
 
 2010 --    9
 2011 --   22
