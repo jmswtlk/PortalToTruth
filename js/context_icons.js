@@ -88,8 +88,8 @@ itext1+=itext;
 2016 --   15
 2017 --   24
 2018 --   19
-2019 --   50     
-total -- 214
+2019 --   54     
+total -- 218
 */
 
 function setIconArray (){
@@ -315,9 +315,13 @@ iconArray = [
 ['2019/10/measures-of-metrical', 'MeasuresMet'],
 ['2019/10/gallows-hill', 'GallowsHillAgain'],
 ['2019/10/thomas-and-wikitree', 'ThomasWikiTree'],
-['2019/10/about-generations', 'Generations']
+['2019/10/about-generations', 'Generations'],
+['2019/10/support-for-tgs-inc', 'SupportForTGS'],
+['2019/10/real-daughters', 'RealDaughters'],
+['2019/10/frank-balch', 'FrankBalch'],
+['2019/11/genealogy-and-bayes', 'JohnPriscilla']
 
-<!-- 2019 49 + 1 (image of Main site) -->
+<!-- 2019 53 + 1 (image of Main site) -->
 ]
 }
 
