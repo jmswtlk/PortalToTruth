@@ -88,8 +88,8 @@ itext1+=itext;
 2016 --   15
 2017 --   24
 2018 --   19
-2019 --   54     
-total -- 218
+2019 --   55     
+total -- 219
 */
 
 function setIconArray (){
@@ -319,9 +319,10 @@ iconArray = [
 ['2019/10/support-for-tgs-inc', 'SupportForTGS'],
 ['2019/10/real-daughters', 'RealDaughters'],
 ['2019/10/frank-balch', 'FrankBalch'],
-['2019/11/genealogy-and-bayes', 'JohnPriscilla']
+['2019/11/genealogy-and-bayes', 'JohnPriscilla'],
+['2019/11/dr-franks-burial', 'DrFrankVeteran']
 
-<!-- 2019 53 + 1 (image of Main site) -->
+<!-- 2019 54 + 1 (image of Main site) -->
 ]
 }
 
