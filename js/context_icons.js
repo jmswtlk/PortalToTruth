@@ -46,7 +46,7 @@ var start_pick = 1; /* use this to test, if 0, does whole list, otherwise will p
 
 if (start_pick == 1){
 /* choose at a random place in the list within ten of the first and last elements of the data */ 
-  start = Math.floor((Math.random() * iconArray.length-20) +1);
+  start = Math.floor((Math.random(.2, 1.0) * iconArray.length) +1);
   console.log ('1 start = ' + start + '; end = ' + end); 
   placeIcon ();
 /* get front of the list */ 
