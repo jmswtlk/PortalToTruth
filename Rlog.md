@@ -38,3 +38,6 @@ Note:
 09/07/2019 -- Last two days show that I can get away. 30 days, tomorrow; all active, except for 2. 
 
 09/17/2019 -- Several items pending with some notion of priority coming to fore. Resources, mostly time, are always an issue.
+
+11/21/2019 -- Started using 'md' for a blog for GitHub'ing which is the technical branch for this portal. We are working ot integrate our blogs which are on different platforms. We need to look at using our own (virtual) host, too. 
+
