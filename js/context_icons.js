@@ -88,8 +88,8 @@ itext1+=itext;
 2016 --   15
 2017 --   24
 2018 --   19
-2019 --   55     
-total -- 219
+2019 --   59     
+total -- 223
 */
 
 function setIconArray (){
@@ -320,9 +320,13 @@ iconArray = [
 ['2019/10/real-daughters', 'RealDaughters'],
 ['2019/10/frank-balch', 'FrankBalch'],
 ['2019/11/genealogy-and-bayes', 'JohnPriscilla'],
-['2019/11/dr-franks-burial', 'DrFrankVeteran']
+['2019/11/dr-franks-burial', 'DrFrankVeteran'],
+['2019/11/', 'WinterIsland'],
+['2019/11/', 'InflowEbb'],
+['2019/11/', 'SalemStart'],
+['2019/11/', 'TheMetrical']
 
-<!-- 2019 54 + 1 (image of Main site) -->
+<!-- 2019 58 + 1 (image of Main site) -->
 ]
 }
 
