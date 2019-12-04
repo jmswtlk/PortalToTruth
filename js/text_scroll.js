@@ -242,7 +242,7 @@ textArray = [
 ['1995 -- Publication by the New England Historic Genealogical Society of The Great Migration Begins. Thomas Gardner has six pages.'],  
 ['1999 -- On March 20, David Goss talked to the Essex Society of Genealogists about the “Old Planters” who received land grants in Beverly in 1635. Thomas was not of that group (we will address this subject).'],
 ['2009 -- John Goff provides a few details on Thomas and Margaret in his book (Salem’s Witch House: A Touchstone to Antiquity).'],
-['TGS, 1895 -- Despite having been mentioned by Rev. Felt, Lt Ben West\'s role in Bunker Hill was finnaly recognized. He had been killed in 1776.'],
+['TGS, 1895 -- Despite having been mentioned by Rev. Felt, Lt Ben West\'s role in Bunker Hill was finally recognized. He had been killed in 1776.'],
 ['TGS, 1909 -- Last issue of Sidney Perley\'s The Essex Antiquarian which had published quarterly since 1897.'],
 ['TGS, 1908 -- First issue of The Massachusetts Magazine with Dr. Frank A. Gardner as co-founder and editor.'],
 ['TGS, 1918 -- January. Last issue of The Massachusetts Magazine which published for eleven years.'], 
