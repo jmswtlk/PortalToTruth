@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 387 posts as of 10/31/2019
+         There are 399 posts as of 11/30/2019
 
 2010 --    9
 2011 --   22
