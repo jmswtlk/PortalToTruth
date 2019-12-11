@@ -41,3 +41,5 @@ Note:
 
 11/21/2019 -- Started using 'md' for a blog for GitHub'ing which is the technical branch for this portal. We are working ot integrate our blogs which are on different platforms. We need to look at using our own (virtual) host, too. 
 
+12/11/2019 -- Finally bit the bullet and am rolling the text of the main page (similar to text scroll). Will allow an edit of those entries so as to remove the 'noise' of Composer of Sea Monkey. Looking for a good HTML editor which puts out clean code. We have 400 years to cover of a slew of families. If you're interested, Google Mayflower 2020, as the boat came here in 1620 (that is, Cape Cod area). 
+
