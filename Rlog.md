@@ -43,3 +43,5 @@ Note:
 
 12/11/2019 -- Finally bit the bullet and am rolling the text of the main page (similar to text scroll). Will allow an edit of those entries so as to remove the 'noise' of Composer of Sea Monkey. Looking for a good HTML editor which puts out clean code. We have 400 years to cover of a slew of families. If you're interested, Google Mayflower 2020, as the boat came here in 1620 (that is, Cape Cod area). 
 
+12/16/2019 -- Got 'er done, finally. This am, figured a good way to share an index across functions on the same page. Using a hidden div allows one to stack some parameters which can be popped off. Will push up tomorrow. Doing the work in HTML in order to get good formatting. So, how ought one like to compose prose in that environment? Cannot do it. Same goes for code. It has a hat. We have several hats that need to be given time in use. More later. 
+
