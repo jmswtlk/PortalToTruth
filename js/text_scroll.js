@@ -16,27 +16,11 @@ var itext1;
 
 showText();
 
-/*
-
-function scrollText () {
-  var z = 0;
-  while (z < 10) {
-     result.removeChild(div);
-     setTimeout(function(){scrollText()}, 500);
-     console.log(z);
-     showText();
-     z++;
-   }
-}
-
-*/
-
 function showText() {
 
    i = Math.floor((Math.random() * textArray.length-1) +1);
 
    itext1 = textArray[i];
-
    console.log(i + ', ' + itext1);
    
    div = document.createElement('div');
@@ -98,7 +82,8 @@ textArray = [
 ['Before 1623/24 -- Exploration of the east coast had continued without stop after the 1492 discovery. New England started with the Virginia colony.'],
 ['Before 1623/24 -- As well, English ships had been traveling up and down the coast, mapping the area, looking for spots to fish, or to settle.'], 
 ['Before 1623/24 -- Cape Cod had been visited and named as early as 1606 because of the plentiful fish found there. Settlement attempts had been made at several points, from Maine down with Virginia being well-known as the first successful attempt. The Plymouth colony found some success, too, albeit at other than their expected location.'],
-['1622 -- Cape Ann was known, too. Prior to the arrival of the Dorchester group, fishermen from the Plymouth colony had built structures for the drying and salting of their fish catch. Thomas and Margaret wedded. Son, Thomas, was born in 1614. Son, George, was born in 16. Son, Richard, was born in 1621.'],
+['1622 -- Cape Ann was known, too. Prior to the arrival of the Dorchester group, fishermen from the Plymouth colony had built structures for the drying and salting of their fish catch. Thomas and Margaret wedded.'],
+['1614/1622 -- Son, Thomas, was born in 1618. Son, George, was born in 1620. Son, Richard, was born in 1621.'],
 ['1622 -- At the time that Rev. John White organized the Cape Ann venture, several other colonization schemes for the same area were in the works in other parts of England. Some of these efforts actually made an attempt by sending settlers.'],
 ['1622 -- Many of colonization attempts were not successful. What we saw with Thomas’ group, though, was success in all ways except filling the expectations of the capitalists who funded the venture.'],
 ['1623 -- Cape Ann crew left to overwinter. Shakespeare published. A major fire breaks out in the Plymouth colony. Thomas, Margaret and the early kids are in England.'],
@@ -142,7 +127,8 @@ textArray = [
 ['1635 -- In December, Gardner signed on grant of 300 acres to John Blackleech. On the 25th day 11th month, there were 1000 acre grants in Beverly to Conant, Balch, Palfray, Woodbury, Trask. These are traditionally called the “old planters” in several places.'],
 ['1635 -- Craddock, in a letter, said that he did not want the "old planters" folks fearing that they were being enslaved. Thomas, being a Mr (which implies a lot), was not of this group (we ought not try to force him into it, okay? – there will be more about this, too). William Wood publishes New England Prospects in London.'],
 ['1636 -- The Pequot war in which John Tylly was killed. Daughter, Seeth, was born.'], 
-['1636 -- Thomas was made member of the First Church (please note that he was already active and respected in the community – so, Thomas was other than the church or military). Also, Thomas was one of the town representatives and was granted 100 acres (I would bet that he didn’t envy the 1000 acres of the Beverly group). Sons, Thomas and George, got land grants from Salem signifying their adulthood.'],
+['1636 -- Thomas was made member of the First Church (please note that he was already active and respected in the community – so, Thomas was other than the church or military).'],
+['1636 -- Thomas was one of the town representatives and was granted 100 acres (I would bet that he didn’t envy the 1000 acres of the Beverly group). Sons, Thomas and George, got land grants from Salem signifying their adulthood.'],
 ['1637 -- Thomas made Freeman on the 17th of the 3rd month. It’s interesting that he and Hathorne were voted to the General Court as representatives. Thomas, after that, kept a local focus. The place was growing.'],
 ['1637 -- Salem’s population: 1637 about 900, 1639 about 950, 1644 about 1200, 1654 about 1068, 1665 about 1466.'],
 ['1638 -- On June 1st, there was a severe earthquake; objects were thrown around. Aftershocks continued for 20 days.'],
@@ -156,7 +142,8 @@ textArray = [
 ['1650 -– Sarah married Benjamin Balch. In England, George Fox was brought up on blasphemy charges.'],
 ['1652 –- Richard married Sarah Shattuck, the daughter of his step-mother, Damaris.'],
 ['1653 –- John married Priscilla Grafton.'],
-['1654 –- George married Elizabeth (Freestone) Turner. Captain Edward Johnson who came over with the Winthrop fleet (1630) published his notes in what was the first history of Massachusetts. It covers the period from 1628 to 1651, and includes some thoughts about the Cape Ann venture prior to Endicott.'],
+['1654 –- George married Elizabeth (Freestone) Turner. Captain Edward Johnson who came over with the Winthrop fleet (1630) published his notes in what was the first history of Massachusetts.'], 
+['1654 -- History of Massachusetts by Captain Edward Johnson covers the period from 1628 to 1651, and includes some thoughts about the Cape Ann venture prior to Endicott.'],
 ['1654 -- Capt. Edward Johnson was one of the founders of Woburn but added commentary about other towns, such as Salem, in his review. The theme of the book definitely allows one to see the religious arguments that went on (Thomas seems to have stayed out of this).'],
 ['1656 –- Seeth married Joshua Conant. Joseph married Ann Downing.'],
 ['1657 –- Samuel married Mary White. Miriam married John Hill. George married Elizabeth (Allen) Stone who was the widow of Reverend Samuel Stone.'],
@@ -173,7 +160,8 @@ textArray = [
 ['1675 -- Population in the colonies reaches 50,000. The King Philip\'s War breaks out in the colonies. Joseph Gardner, son #6, killed at Great Swamp fight, leaving widow, Ann (Downing) Gardner.'],
 ['1676 –- Ann, Joseph\’s widow, married Governor Simon Bradstreet after he signed her pre-nuptial. John and Richard meet opposition on Nantucket; John writes the Governor in New York. George Gardner died, leaving widow Elizabeth (Allen) Stone Gardner. Samuel married Elizabeth () Paine.'], 
 ['1679 –- Son #2, George, died in Salem. Habeas Corpus Act passed.'],
-['1680 -- Rev. William Hubbard finished his manuscript (History of New England) and gave it to those in charge for review. In Chapter XVIII, he mentions that Mr. John Tylly and Mr. Thomas Gardener were employed as overseers of the Cape Ann effort. This was the first mention. Rev. Hubbard talked to all of the principals including Conant (at length, Conant expressed displeasure at how he was treated).'],
+['1680 -- Rev. William Hubbard finished his manuscript (History of New England) and gave it to those in charge for review. In Chapter XVIII, he mentions that Mr. John Tylly and Mr. Thomas Gardener were employed as overseers of the Cape Ann effort.'],
+['1680 -- Rev. Hubbard\'s report was the first mention. Rev. Hubbard talked to all of the principals including Conant (at length, Conant expressed displeasure at how he was treated).'],
 ['1680 -- Rev. William Hubbard died in 1704. His manuscript was almost burned when there was a mob induced fire at the house of Gov. Thomas Hutchinson in 1765.'],
 ['1680 -- Hubbard\’s narrative was not published until 1815 (Hubbard has an extensive list of references that we need to add to the list and to review).'], 
 ['1682 –- Thomas Gardner, Junior, son #1, died leaving widow, Elizabeth (Horne) Gardner.'],
@@ -191,7 +179,8 @@ textArray = [
 ['1736 -- There was a lot of activity in the northern region prior to 1620. Prince mentions that Gardner and Tylly oversaw the Cape Ann Plantation (following Rev. Hubbard, of course).'],  
 ['1747 -- Daniel Neal writes his book (History of New-England) and mentions Joseph Gardner being killed.'], 
 ['1764 -- Governor Hutchinson publishes his work (History of Massachusetts) in which he touts the lack of facts in Hubbard’s work (rather than celebrate the guy’s early effort, almost a century earlier).'], 
-['1765 -- On August 26th, a mob related to the tax riot burnt the Governor’s house (Thomas Hutchinson). In that instance, we almost lost the manuscript of Rev. William Hubbard (who had talked to Thomas Gardner). The 1680 manuscript had been in Hutchinson’s family for several generations.'], 
+['1765 -- On August 26th, a mob related to the tax riot burnt the Governor’s house (Thomas Hutchinson). In that instance, we almost lost the manuscript of Rev. William Hubbard (who had talked to Thomas Gardner).'],
+['1765 -- Rev. Hubbard\'s 1680 manuscript which was almost burned In August had been in possession of Hutchinson\’s family for several generations.'], 
 ['1773 -- Boston Tea Party, taxation without representation.'],
 ['1776 -- Declaration of Independence.'],
 ['1789 -- U.S. Constitution.'],  
@@ -226,18 +215,18 @@ textArray = [
 ['CoOS, 1799 -- The Eighteenth Century opens with Salem well on the way to becoming a great shipbuilding center and important commercial port.'],
 ['CoOS, 1764 -- First Census. Population of Salem was 4,427. By 1766, it was 5,337. In 1790, there were 7,921 souls in the area. 1800 saw a population of 9,457. By 1915, it was 36,825.'], 
 ['CoOS, 1776 -- June 17. A few men from Salem are in the Battle of Bunker Hill. Lieut. Benjamin West is killed within the trenches.'],
-['CoOS, 1787 --  June 23. There is rejoicing in Salem, records Felt, for the adoption of the federal Constitution'], 
+['CoOS, 1787 -- June 23. There is rejoicing in Salem, records Felt, for the adoption of the federal Constitution'], 
 ['CoOs, 1789 -- April 30th. George Washington inaugurated as 1st President of the U.S. at Federal Hall on Wall Street, NYC.'],
 ['CoOS, 1825 -- Nathaniel Hawthorne, Henry Wadsworth Longfellow, and Franklin Pierce graduate from Bowdoin College.'],
 ['CoOS, 1826 -- July 4th. The 50th of the U.S. was celebrated with the 200th of Salem. In a parade, a printing press being pulled by white horses printed throwaways of the occasion which were thrown out to the parade watchers.'],
 ['CoOS, 1834 -- Shoe pegging machine invented by Samuel Preston of Danvers.'],
 ['CoOS, 1844 -- A large portion of Salem is opposed to the annexation of Texas lest this promote slavery and bring a war with Mexico'],
-['CoOS,  1860 -- Salem Lyceum opens with a lecture by Rev. Henry Ward Beecher, brother of Harriet Beecher Stowe.'], 
+['CoOS, 1860 -- Salem Lyceum opens with a lecture by Rev. Henry Ward Beecher, brother of Harriet Beecher Stowe.'], 
 ['CoaOS, 1861 -- April 23. Rev. G.D.Wildes raises a Field Hospital Corps of 60 volunteers from Salem and vicinity which becomes the first ambulance department in the United States Army',],
 ['CoOS, 1866 -- April 5. A Fast day for fasting, humiliation, and prayer set apart by the Governor of the Commonwealth (custom of long standing).'],
 ['CoOS, 1876 -- July 4th. 100 years of U.S. Parade of more than 3 miles in length in Salem.'],
 ['CoOS, 1869 -- Rev Joseph B. Felt dies. Lived at 27 Norman Street.'],
-['CoOS, 1914 -- June 25th. The greatest disaster in Salem\'s history descends as fire breaks out in the Korn Leather Company\'s factory on  Boston Street near Bridge Street, in Blubber Hollow. Within moments the conflagration is beyond control.'], 
+['CoOS, 1914 -- June 25th. The greatest disaster in Salem\'s history descends as fire breaks out in the Korn Leather Company\'s factory on Boston Street near Bridge Street, in Blubber Hollow. Within moments the conflagration is beyond control.'], 
 ['CoOS, 1917 -- June 11. The X-Ray invention of Frank Balch of Salem is adopted for Army and Navy Hospitals.'],
 ['1995 -- Publication by the New England Historic Genealogical Society of The Great Migration Begins. Thomas Gardner has six pages.'],  
 ['1999 -- On March 20, David Goss talked to the Essex Society of Genealogists about the “Old Planters” who received land grants in Beverly in 1635. Thomas was not of that group (we will address this subject).'],
@@ -254,7 +243,7 @@ textArray = [
 ['TGS, 2012 -- March 15. Notice that OfficeLive will end in April.'],
 ['TGS, 2012 -- April 18. All content moved from OfficeLive (apsx) to Webhosting Hub (HTML, icons).'],
 ['TGS, 2013 -- January 7. Bulletin Board established on TGS site with easy registration and no moderation.'],
-['TGS, 2013 -- January 22. For the Bullentin Board, put in Admin approval due to improper registrations.'],
+['TGS, 2013 -- January 22. For the Bulletin Board, put in Admin approval due to improper registrations.'],
 ['TGS, 2013 -- January. John Goff (descendant of Thomas through Richard) references the TGS in an article for the Salem Gazette\'s on-line publication.'], 
 ['TGS, 2013 -- July. Started to look at improvements for the TGS site. Studied the options for web development.'],  
 ['TGS, 2014 -- May. First post, technical blog for TGS using WordPress.'],
