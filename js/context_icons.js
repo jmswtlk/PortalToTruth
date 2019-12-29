@@ -78,18 +78,6 @@ itext1+=itext;
 
 /* count of posts covered by year
          There are 399 posts as of 11/30/2019
-
-2010 --    9
-2011 --   22
-2012 --   15
-2013 --   16
-2014 --   23
-2015 --   22
-2016 --   15
-2017 --   24
-2018 --   19
-2019 --   61     
-total -- 225
 */
 
 function setIconArray (){
@@ -103,7 +91,7 @@ iconArray = [
 ['2010/11/historical-genealogy', 'Bosworth'],
 ['2010/12/early-times', 'ThomasWT'],
 ['2010/12/more-progeny', 'Progeny'],
-<!-- 2010 9-->
+<!-- 2010   9 of 13    -->
 ['2011/01/southeast-essex-county', 'SouthEssex'],
 ['2011/01/two-cousins', 'TwoCousins'],
 ['2011/02/dr-frank-gardner', 'DrFrankGardner'], 
@@ -126,7 +114,7 @@ iconArray = [
 ['2011/12/mary-gardner-coffin', 'MaryGardnerCoffin'], 
 ['2011/12/gardner-pingree-house-and-murder', 'GardnerPingree'],
 ['2011/12/posts-of-interest-2011', 'Interests2011'],
-<!-- 2011 22 -->
+<!-- 2011   22 of 38  -->
 ['2012/01/where-was-thomas', 'ThomasWasWhere'],
 ['2012/02/where-was-thomas-ii', 'WhereWas'],
 ['2012/03/thomasgardnersocietyorg', 'CMSagain'],
@@ -142,7 +130,7 @@ iconArray = [
 ['2012/12/old-planters-massachusetts', 'OldPlantersMass'],
 ['2012/12/aunts-uncles-cousins', 'Joseph&Ann'],
 ['2012/12/gardners-beacon-vol-ii-no-6', 'GB_II_6'],
-<!-- 2012 15-->
+<!-- 2012    15 of 30  -->
 ['2013/01/john-goff', 'SalemNantucket'],
 ['2013/01/400th-anniversary', '400thAnniversaries'],
 ['2013/02/meeting-again', 'DelusionofSatan'],
@@ -158,7 +146,7 @@ iconArray = [
 ['2013/11/george-d-phippen', 'GeorgeDPhippen'],
 ['2013/11/gardners-beacon-vol-iii-no-3', 'GB_III_3'],
 ['2013/12/gardners-beacon-vol-iii-no-4', 'GB_III_4'],
-<!-- 2013 16  -->
+<!-- 2013    15 of 32   -->
 ['2014/01/telling-stories', 'MelissaDBerry'],
 ['2014/02/numbers-again', 'Numbers_sm'],
 ['2014/02/electronic-footprint', 'ElectronicFootprint'],
@@ -182,7 +170,7 @@ iconArray = [
 ['2014/11/historic-nantucket', 'HistoricNantucket'],
 ['2014/11/places', 'Places'],
 ['2014/12/gardners-beacon-vol-iv-no-4', 'GB_IV_4'],
-<!-- 2014 23 -->
+<!-- 2014   22 of 48   -->
 ['2015/01/the-gardner-jonah', 'GardnerJonah'],
 ['2015/01/zouch-phoenix', 'ZouchPhenix'],
 ['2015/02/gardner-research-and-discussion', 'GardnerResearch'],
@@ -196,6 +184,8 @@ iconArray = [
 ['2015/05/featured-research', 'FeaturedResearch'],
 ['2015/05/gardners-beacon-vol-v-no-1', 'TG_KM_sm'],
 ['2015/06/vicissitude-and-its-puzzles', 'WilsonGardner'],
+['2015/06/research-examples', 'ResearchExample'],
+['2015/07/sherborne-in-dorset', 'SherborneDorset'],
 ['2015/07/regimental-history-series-background', 'SiegeofBoston'],
 ['2015/08/gardner-ks', 'GardnerKS'],
 ['2015/08/cape-ann-settlers', 'CapeAnnSettlers'],
@@ -206,7 +196,7 @@ iconArray = [
 ['2015/12/captain-pollard', 'CaptPollard'],
 ['2012/12/the-gardner-annals-vol-ii-no-2', 'TGAVolIINo2'],
 ['2015/12/find-grave-gardner', 'FindAGrave'],
-<!-- 2015 22  -->
+<!-- 2015   25 of 46   -->
 ['2016/01/thomas-and-margaret-archetypal-pair', 'TMArchetypal'],
 ['2016/02/leap-day-2016', 'Leap2016'],
 ['2016/03/more-on-gold-rush', 'SeeingTheEliphant'],
@@ -222,7 +212,7 @@ iconArray = [
 ['2016/11/ra-douglas-lithgow-md-lld', 'DouglasLithgow'],
 ['2016/11/2016/11/john-gardner-again', 'JohnAgain'],
 ['2016/12/gardners-beacon-vol-vi-no-2', 'GB_VI_2'],
-<!-- 2016  15 -->
+<!-- 2016    15 of 41   -->
 ['2017/01/tmm-review', 'TMM_sm'],
 ['2017/02/us-and-us', 'USandus'],
 ['2017/03/thomas-gardner-of-roxbury', 'Rev_John_Wise_sm'],
@@ -247,7 +237,7 @@ iconArray = [
 ['2017/11/southern-new-england', 'Virginia'],
 ['2017/12/american-manhood', 'PuritanCouple'],
 ['2017/12/alfred-l-gardner-phd', 'ALG'],
-<!-- 2017 24 -->
+<!-- 2017   24 of 31   -->
 ['2018/01/last-issue-of-massachusetts-magazine', 'Front_and_count_sm'],
 ['2018/02/ground-zero', '1918_flu_sm'],
 ['2018/03/spirit-of-76', 'Bailey_book_sm'],
@@ -267,7 +257,7 @@ iconArray = [
 ['2018/12/gardners-beacon-vol-viii-no-2', 'GB_VIII_2'], 
 ['2018/12/culture-history-technology','MobileFriendly'],
 ['2018/12/posts-by-month-by-year', 'PostsStats'],
-<!-- 2018 19 -->
+<!-- 2018    19 of 44  -->
 ['2019/01/29-december-1674', '29December1674'],
 ['2019/01/tenth-year', 'TenYearView'],
 ['2019/01/gems-of-salem', 'JohnGoff'],
@@ -326,9 +316,14 @@ iconArray = [
 ['2019/11/salems-start', 'SalemStart'],
 ['2019/11/the-blog-and-metrical', 'TheMetrical'],
 ['2019/11/joseph-gardner', 'JosephGardner'],
-['2019/12/gardner-river', 'GardnerRiver']
+['2019/12/gardner-river', 'GardnerRiver'],
+['2019/12/houses-of-salem', 'SalemHouses'],
+['2019/12/elizabeth-gardner-blanchard', 'ElizGardBlanc'],
+['2019/12/elizabeth-gardner-gardner', 'ElizGardGard'],
+['2019/12/elizabeth-gardner-dabney-bridges-stevens', 'ElizGardDabBridgSteve'],
+['2019/12/decade-start', 'DecadeStart']
 
-<!-- 2019 61 + 1 (image of Main site) -->
+<!-- 2019   61 of 84      plus one anchor -->
 ]
 }
 
