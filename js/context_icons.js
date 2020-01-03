@@ -321,9 +321,13 @@ iconArray = [
 ['2019/12/elizabeth-gardner-blanchard', 'ElizGardBlanc'],
 ['2019/12/elizabeth-gardner-gardner', 'ElizGardGard'],
 ['2019/12/elizabeth-gardner-dabney-bridges-stevens', 'ElizGardDabBridgSteve'],
-['2019/12/decade-start', 'DecadeStart']
+['2019/12/decade-start', 'DecadeStart'],
+['2019/12/gardners-beacon-vol-ix-no-3', 'GB_IX_3'],
+['2019/12/posts-2016-2017-2018', 'Postsa18_16'],
+['2019/12/posts-2013-2014-2015', 'Postsb15_13'],
+['2019/12/posts-2010-2011-2012', 'Postsc12_10'] 
 
-<!-- 2019   61 of 84      plus one anchor -->
+<!-- 2019   69 of 84      plus one anchor -->
 ]
 }
 
