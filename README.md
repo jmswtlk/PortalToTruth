@@ -29,5 +29,7 @@ Note: 11/06/2019 -- Content and configuration relate in a spiral, almost as twis
 
 Note: 12/20/2019 -- So, full circle. See post at this site for today (https://github.com/jmswtlk/GitHub-ing/blob/master/blog.md). Had tried jekyll early but went to own method for that website. However, on browsing about backend'ing, ran into Jekyll. What? Lots of good companies are using it in the context of Open Source. And, it has facilities (with extensions) for handling the text with a blog using techniques out of source control. And, I might add, requirements management. So, what's to not like? I'll be Jekyll'ing for a while. 
 
-Note: 01/04/2020 -- RPIs, servers, masters/slaves, demons, communications, databases, APIs, peer-to-peer, callbacks, servlets, server/client mixes, thin client, cloud, generic apps, services, ..., all in a day's work, ..., amongst all of this, mischief looms, ..., that is, unwarranted usage. Then, development, workbenches, test benches, optimizing compilers, language by context (while seemingly context-free), domains, mathematics, ..., what lurks that is hidden and ought to not be forgotten? Have we forgotten too much? Put too much trust in the wizards?
+Note: 01/04/2020 -- RPCs, servers, masters/slaves, demons, communications, databases, APIs, peer-to-peer, callbacks, servlets, server/client mixes, thin client, cloud, generic apps, services, ..., all in a day's work, ..., amongst all of this, mischief looms, ..., that is, unwarranted usage. Then, development, workbenches, test benches, optimizing compilers, language by context (while seemingly context-free), domains, mathematics, ..., what lurks that is hidden and ought to not be forgotten? Have we forgotten too much? Put too much trust in the wizards?
+
+
 
