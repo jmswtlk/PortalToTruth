@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 399 posts as of 11/30/2019
+         There are 411 posts as of 12/31/2019
 */
 
 function setIconArray (){
@@ -325,9 +325,12 @@ iconArray = [
 ['2019/12/gardners-beacon-vol-ix-no-3', 'GB_IX_3'],
 ['2019/12/posts-2016-2017-2018', 'Postsa18_16'],
 ['2019/12/posts-2013-2014-2015', 'Postsb15_13'],
-['2019/12/posts-2010-2011-2012', 'Postsc12_10'] 
+['2019/12/posts-2010-2011-2012', 'Postsc12_10'],
+<!-- 2018    69 of 44  -->
+['2020/01/margarets-family', 'MargaretsFamily'],
+['2020/01/gardners-gate', 'GardnersGate']
 
-<!-- 2019   69 of 84      plus one anchor -->
+ <!-- 2020  2 of 4      plus one anchor -->
 ]
 }
 
