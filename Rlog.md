@@ -45,3 +45,6 @@ Note:
 
 12/16/2019 -- Got 'er done, finally. This am, figured a good way to share an index across functions on the same page. Using a hidden div allows one to stack some parameters which can be popped off. Will push up tomorrow. Doing the work in HTML in order to get good formatting. So, how ought one like to compose prose in that environment? Cannot do it. Same goes for code. It has a hat. We have several hats that need to be given time in use. More later. 
 
+01/18/2020 -- Had a discussion about presence, now and future. Lots of options exist. Many older organizations are having a tug-of-war twixt the newer and older members. In one case, there is long heritage with an associated database that has slowly built up and that is considered reliable in terms of its information. Changes go through a long process for verification. That is unlike the wild flow of lots of information on the internet, that we know, increasingly, is suspect, even dangerous. We're going to be addressing core issues in that regard. 
+
+
