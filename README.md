@@ -31,5 +31,5 @@ Note: 12/20/2019 -- So, full circle. See post at this site for today (https://gi
 
 Note: 01/04/2020 -- RPCs, servers, masters/slaves, demons, communications, databases, APIs, peer-to-peer, callbacks, servlets, server/client mixes, thin client, cloud, generic apps, services, ..., all in a day's work, ..., amongst all of this, mischief looms, ..., that is, unwarranted usage. Then, development, workbenches, test benches, optimizing compilers, language by context (while seemingly context-free), domains, mathematics, ..., what lurks that is hidden and ought to not be forgotten? Have we forgotten too much? Put too much trust in the wizards?
 
-
+Note: 01/22/2020 -- As I work technical details, I will be looking, too, at the machine-human aspect. Humans have a long history. And, generational dynamics are age-old. It is there where we see some interesting phenomenon. I will use one (unnamed) group where I can see closely the interplay of the older and younget sets with the emerging being a major influence. 
 
