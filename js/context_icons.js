@@ -328,9 +328,12 @@ iconArray = [
 ['2019/12/posts-2010-2011-2012', 'Postsc12_10'],
 <!-- 2018    69 of 44  -->
 ['2020/01/margarets-family', 'MargaretsFamily'],
-['2020/01/gardners-gate', 'GardnersGate']
+['2020/01/gardners-gate', 'GardnersGate'],
+['2020/01/houses-and-homes-note-to-salem', 'HousesAreHomes'],
+['2020/01/presence-and-such', 'PresenceAndSuch'],
+['2020/01/america-250', 'American100s']
 
- <!-- 2020  2 of 4      plus one anchor -->
+ <!-- 2020  4 of 6      plus one anchor -->
 ]
 }
 
