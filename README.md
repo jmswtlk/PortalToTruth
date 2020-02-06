@@ -33,3 +33,5 @@ Note: 01/04/2020 -- RPCs, servers, masters/slaves, demons, communications, datab
 
 Note: 01/22/2020 -- As I work technical details, I will be looking, too, at the machine-human aspect. Humans have a long history. And, generational dynamics are age-old. It is there where we see some interesting phenomenon. I will use one (unnamed) group where I can see closely the interplay of the older and younget sets with the emerging being a major influence. 
 
+Note: 02/06/2020 -- Watch Rlog.md for some technical discussions, say, MIP and NEXP in a framework needing some attention. 
+
