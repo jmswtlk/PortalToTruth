@@ -47,4 +47,5 @@ Note:
 
 01/18/2020 -- Had a discussion about presence, now and future. Lots of options exist. Many older organizations are having a tug-of-war twixt the newer and older members. In one case, there is long heritage with an associated database that has slowly built up and that is considered reliable in terms of its information. Changes go through a long process for verification. That is unlike the wild flow of lots of information on the internet, that we know, increasingly, is suspect, even dangerous. We're going to be addressing core issues in that regard. 
 
+02/06/2020 -- A key word is 'interactive' in the sense of 'proof' which bears some discussion. https://en.wikipedia.org/wiki/Interactive_proof_system MIP and NEXP mentioned in a recent ACM Communications article on quantum computing. 
 
