@@ -35,3 +35,6 @@ Note: 01/22/2020 -- As I work technical details, I will be looking, too, at the 
 
 Note: 02/06/2020 -- Watch Rlog.md for some technical discussions, say, MIP and NEXP in a framework needing some attention. 
 
+Note: 02/19/2020 -- Addition (https://github.com/numenta) from this (https://www.quora.com/Are-AI-Thinking-Machines-really-thinking-1/answer/Fred-Mitchell-5).  
+
+
