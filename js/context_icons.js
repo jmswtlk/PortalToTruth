@@ -331,7 +331,10 @@ iconArray = [
 ['2020/01/gardners-gate', 'GardnersGate'],
 ['2020/01/houses-and-homes-note-to-salem', 'HousesAreHomes'],
 ['2020/01/presence-and-such', 'PresenceAndSuch'],
-['2020/01/america-250', 'American100s']
+['2020/01/america-250', 'American100s'],
+['2020/02/gardner-il', 'Rte66'],
+['2020/02/frances-rose-troup', 'FRTroup'],
+['2020/02/jonathan-wilson', 'JnthWilson']
 
  <!-- 2020  4 of 6      plus one anchor -->
 ]
