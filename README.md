@@ -3,7 +3,7 @@ Covering 400 years of U.S. history with a minimal approach, tech and biz.
 
 ---
 
-See https://jmswtlk.github.io/GitHub-ing/ (and https://github.com/jmswtlk) to watch progress.
+See https://jmswtlk.github.io/GitHub-ing/ (and https://github.com/jmswtlk) to watch progress. Also, I use our technology blog for related commentary. Example: https://tgsoc.org/tech/2020/03/13/update-of-sorts/. 
 
 ---
 
