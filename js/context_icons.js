@@ -326,7 +326,7 @@ iconArray = [
 ['2019/12/posts-2016-2017-2018', 'Postsa18_16'],
 ['2019/12/posts-2013-2014-2015', 'Postsb15_13'],
 ['2019/12/posts-2010-2011-2012', 'Postsc12_10'],
-<!-- 2018    69 of 44  -->
+<!-- 2019    69 of 44  -->
 ['2020/01/margarets-family', 'MargaretsFamily'],
 ['2020/01/gardners-gate', 'GardnersGate'],
 ['2020/01/houses-and-homes-note-to-salem', 'HousesAreHomes'],
@@ -334,9 +334,15 @@ iconArray = [
 ['2020/01/america-250', 'American100s'],
 ['2020/02/gardner-il', 'Rte66'],
 ['2020/02/frances-rose-troup', 'FRTroup'],
-['2020/02/jonathan-wilson', 'JnthWilson']
+['2020/02/jonathan-wilson', 'JnthWilson'],
+['2020/02/howard-street-burial-ground', 'HSBG'],
+['2020/02/families-at-hsbg', 'FatHSBG'],
+['2020/03/families-at-cape-ann', 'FatCapeAnn'],
+['2020/03/magazines-and-people', 'MagsPeople'],
+['2020/03/essex-national-heritage-area', 'EssexNatHertArea'],
+['2020/03/the-commonwealth', 'TheCommWlth']
 
- <!-- 2020  4 of 6      plus one anchor -->
+ <!-- 2020  14 of 15      plus one anchor -->
 ]
 }
 
