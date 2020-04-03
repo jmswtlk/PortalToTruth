@@ -2,9 +2,9 @@
 
 
 /*  keep count in sync with text_roll, array length -1  */
-/*  with zero positioning       length = 15, index up to 14
+/*  with zero positioning       length = 19, index up to 18
                    including zero    */
-var i = Math.floor((Math.random() * 15));
+var i = Math.floor((Math.random() * 17));
 
 console.log('index = ' + i); 
 

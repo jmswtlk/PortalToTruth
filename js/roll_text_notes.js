@@ -29,7 +29,14 @@ function showNotes() {
 
 function setRollArray (){
 rollArray = [
-/*  15 */
+/* if you add a row, update text_parm */
+/* 18 */
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2019/10/about-generations.html">About generations</a>. <br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/2018/06/pageant-of-salem.html">Salem Pageant</a>.<br> 3. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/01/america-250.html">American celebrations</a>.'],
+/* 17 */
+['1. See <a href="https://en.wikipedia.org/wiki/Massachusetts_Magazine">Massachusetts Magazine</a> (1700s).<br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/p/tmm.html">The Massachusetts Magazine</a> (1900s).'],
+/* 16 */
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/02/frances-rose-troup.html">Frances Rose-Troup</a>. <br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2019/04/history-of-new-england.html">History of New England</a>.'],
+/* 15 */
 ['1. See <a href= "https://thomasgardnerofsalem.blogspot.com/2016/04/cape-ann-retrospective.html">Cape  Ann, Retrospective</a>.<br>2. See <a href= "https://thomasgardnerofsalem.blogspot.com/2019/04/the-1st-year.html">The 1st year</a>.<br>3. See <a href= "https://thomasgardnerofsalem.blogspot.com/2019/08/threads-through-five-generations.html">Five generations</a>.<br>4. See <a href= "https://thomasgardnerofsalem.blogspot.com/2019/11/thomas-gardner.html">Thomas Gardner</a>.<br>5. See <a href= "https://thomasgardnerofsalem.blogspot.com/2019/11/george-gardner.html">George Gardner</a>.<br>6. See <a href= "https://thomasgardnerofsalem.blogspot.com/2019/08/seeth-gardner.html">Seeth Gardner</a>.<br>'],
 /* 14  */
 ['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2016/04/cape-ann-retrospective.html">Cape Ann, Retrospective</a><br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/2019/04/the-1st-year.html">The 1st year</a>.<br>3. See <a href="https://thomasgardnerofsalem.blogspot.com/2019/08/threads-through-five-generations.html">Five generations</a>.<br>4. See <a  href="http://www.wargs.com/family/shattuck.html">William Shattuck @ wargs</a>.<br>5. See <a href="https://thomasgardnerofsalem.blogspot.com/2011/07/richard-and-john.html">Richard and John (and Thomas)</a>.<br>6. See <a href="https://thomasgardnerofsalem.blogspot.com/2019/11/winter-island.html">Sidney Perley - History of Salem</a>. </small>'],
@@ -58,7 +65,8 @@ rollArray = [
 /* 2  */
 ['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2016/04/cape-ann-retrospective.html">Cape Ann retrospective</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2013/03/plus-or-minus-arrival.html">Plus or minus the arrival</a>.<br> 3.See <a href= "https://thomasgardnerofsalem.blogspot.com/2013/03/gardners-beacon-vol-iii-no-1.html">Gardner\'s Beacon, Vol. III, No. 1</a>.'],
 /* 1  */
-['1. See <a href="http://thomasgardnerofsalem.blogspot.com/2014/07/1st-governor.html">1st Governor</a>.<br> 2. See <a href="http://thomasgardnerofsalem.blogspot.com/2012/11/how-many-wives.html">How many wives?</a>.<br>3. See Research Project (<a                         href="http://thomasgardnersociety.org/html/Research/Sherborne.html">Sherborne,Dorset</a>).']
+['1. See <a href="http://thomasgardnerofsalem.blogspot.com/2014/07/1st-governor.html">1st Governor</a>.<br> 2. See <a href="http://thomasgardnerofsalem.blogspot.com/2012/11/how-many-wives.html">How many wives?</a>.<br>3. See Research Project (<a                         href="http://thomasgardnersociety.org/html/Research/Sherborne.html">Sherborne,Dorset</a>).'],
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2014/09/thomas-and-margaret.html">Marriage of Thomas and Margaret</a>. <br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/2018/08/margaret-anew.html">Margaret, anew</a>.<br>3. See <a href="https://www.wikitree.com/wiki/Fryer-892">WikiTree</a>.']
 ]
 }
 
