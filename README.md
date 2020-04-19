@@ -39,3 +39,5 @@ Note: 02/19/2020 -- Addition (https://github.com/numenta) from this (https://www
 
 Note: 03/09/2020 -- Inspiration comes from various angles. Today, someone who studied Comp Sci (2007-2012). I ran into his stuff while looking for x86 information with regard to truth engineering. Noticed the GitHub connection. But, then, read: https://www.nayuki.io/page/web-site-notes. Hand writes own HTML, CSS, and Javascript. Can relate to that. Will be updating these pages: https://tgsoc.org/demo/, https://tgsoc.org/demo/DevLog.html, and https://tgsoc.org/demo/demo.html. And, will continue on the road of the long hoe'ing. While balancing the 400-year view with futures as we will need to be in the mode to do it right. 
 
+Note: 04/18/2020 -- https://spectrum.ieee.org/computing/hardware/heres-a-blueprint-for-a-practical-quantum-computer Very nice view of the status that skirts the hype. 
+
