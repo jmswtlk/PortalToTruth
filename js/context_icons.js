@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 411 posts as of 12/31/2019
+         There are 432 posts as of 04/30/2020
 */
 
 function setIconArray (){
@@ -91,7 +91,7 @@ iconArray = [
 ['2010/11/historical-genealogy', 'Bosworth'],
 ['2010/12/early-times', 'ThomasWT'],
 ['2010/12/more-progeny', 'Progeny'],
-<!-- 2010   9 of 13    -->
+<!-- 2010    -->
 ['2011/01/southeast-essex-county', 'SouthEssex'],
 ['2011/01/two-cousins', 'TwoCousins'],
 ['2011/02/dr-frank-gardner', 'DrFrankGardner'], 
@@ -114,7 +114,7 @@ iconArray = [
 ['2011/12/mary-gardner-coffin', 'MaryGardnerCoffin'], 
 ['2011/12/gardner-pingree-house-and-murder', 'GardnerPingree'],
 ['2011/12/posts-of-interest-2011', 'Interests2011'],
-<!-- 2011   22 of 38  -->
+<!-- 2011   -->
 ['2012/01/where-was-thomas', 'ThomasWasWhere'],
 ['2012/02/where-was-thomas-ii', 'WhereWas'],
 ['2012/03/thomasgardnersocietyorg', 'CMSagain'],
@@ -130,7 +130,7 @@ iconArray = [
 ['2012/12/old-planters-massachusetts', 'OldPlantersMass'],
 ['2012/12/aunts-uncles-cousins', 'Joseph&Ann'],
 ['2012/12/gardners-beacon-vol-ii-no-6', 'GB_II_6'],
-<!-- 2012    15 of 30  -->
+<!-- 2012   -->
 ['2013/01/john-goff', 'SalemNantucket'],
 ['2013/01/400th-anniversary', '400thAnniversaries'],
 ['2013/02/meeting-again', 'DelusionofSatan'],
@@ -146,7 +146,7 @@ iconArray = [
 ['2013/11/george-d-phippen', 'GeorgeDPhippen'],
 ['2013/11/gardners-beacon-vol-iii-no-3', 'GB_III_3'],
 ['2013/12/gardners-beacon-vol-iii-no-4', 'GB_III_4'],
-<!-- 2013    15 of 32   -->
+<!-- 2013    -->
 ['2014/01/telling-stories', 'MelissaDBerry'],
 ['2014/02/numbers-again', 'Numbers_sm'],
 ['2014/02/electronic-footprint', 'ElectronicFootprint'],
@@ -170,7 +170,7 @@ iconArray = [
 ['2014/11/historic-nantucket', 'HistoricNantucket'],
 ['2014/11/places', 'Places'],
 ['2014/12/gardners-beacon-vol-iv-no-4', 'GB_IV_4'],
-<!-- 2014   22 of 48   -->
+<!-- 2014    -->
 ['2015/01/the-gardner-jonah', 'GardnerJonah'],
 ['2015/01/zouch-phoenix', 'ZouchPhenix'],
 ['2015/02/gardner-research-and-discussion', 'GardnerResearch'],
@@ -196,7 +196,7 @@ iconArray = [
 ['2015/12/captain-pollard', 'CaptPollard'],
 ['2012/12/the-gardner-annals-vol-ii-no-2', 'TGAVolIINo2'],
 ['2015/12/find-grave-gardner', 'FindAGrave'],
-<!-- 2015   25 of 46   -->
+<!-- 2015   -->
 ['2016/01/thomas-and-margaret-archetypal-pair', 'TMArchetypal'],
 ['2016/02/leap-day-2016', 'Leap2016'],
 ['2016/03/more-on-gold-rush', 'SeeingTheEliphant'],
@@ -212,7 +212,7 @@ iconArray = [
 ['2016/11/ra-douglas-lithgow-md-lld', 'DouglasLithgow'],
 ['2016/11/2016/11/john-gardner-again', 'JohnAgain'],
 ['2016/12/gardners-beacon-vol-vi-no-2', 'GB_VI_2'],
-<!-- 2016    15 of 41   -->
+<!-- 2016   -->
 ['2017/01/tmm-review', 'TMM_sm'],
 ['2017/02/us-and-us', 'USandus'],
 ['2017/03/thomas-gardner-of-roxbury', 'Rev_John_Wise_sm'],
@@ -237,7 +237,7 @@ iconArray = [
 ['2017/11/southern-new-england', 'Virginia'],
 ['2017/12/american-manhood', 'PuritanCouple'],
 ['2017/12/alfred-l-gardner-phd', 'ALG'],
-<!-- 2017   24 of 31   -->
+<!-- 2017   -->
 ['2018/01/last-issue-of-massachusetts-magazine', 'Front_and_count_sm'],
 ['2018/02/ground-zero', '1918_flu_sm'],
 ['2018/03/spirit-of-76', 'Bailey_book_sm'],
@@ -257,7 +257,7 @@ iconArray = [
 ['2018/12/gardners-beacon-vol-viii-no-2', 'GB_VIII_2'], 
 ['2018/12/culture-history-technology','MobileFriendly'],
 ['2018/12/posts-by-month-by-year', 'PostsStats'],
-<!-- 2018    19 of 44  -->
+<!-- 2018   -->
 ['2019/01/29-december-1674', '29December1674'],
 ['2019/01/tenth-year', 'TenYearView'],
 ['2019/01/gems-of-salem', 'JohnGoff'],
@@ -326,7 +326,7 @@ iconArray = [
 ['2019/12/posts-2016-2017-2018', 'Postsa18_16'],
 ['2019/12/posts-2013-2014-2015', 'Postsb15_13'],
 ['2019/12/posts-2010-2011-2012', 'Postsc12_10'],
-<!-- 2019    69 of 44  -->
+<!-- 2019   -->
 ['2020/01/margarets-family', 'MargaretsFamily'],
 ['2020/01/gardners-gate', 'GardnersGate'],
 ['2020/01/houses-and-homes-note-to-salem', 'HousesAreHomes'],
@@ -340,9 +340,18 @@ iconArray = [
 ['2020/03/families-at-cape-ann', 'FatCapeAnn'],
 ['2020/03/magazines-and-people', 'MagsPeople'],
 ['2020/03/essex-national-heritage-area', 'EssexNatHertArea'],
-['2020/03/the-commonwealth', 'TheCommWlth']
+['2020/03/the-commonwealth', 'TheCommWlth'],
+['2020/03/long-and-short', 'OldLinks'],
+['2020/03/jonathan-letterman-md', 'JLetterman'],
+['2020/03/necessary-but-invisible', 'NotVisible'],
+['2020/04/themes', 'Themes'],
+['2020/04/historical-significances', 'HistSignif'],
+['2020/04/recapping', 'Recapping'],
+['2020/05/vanity-genealogy', 'PeopleHistory'],
+['2020/05/people-and-history', 'VanityGenealogy']
 
- <!-- 2020  14 of 15      plus one anchor -->
+
+ <!-- 2020   plus one anchor -->
 ]
 }
 
