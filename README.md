@@ -41,3 +41,5 @@ Note: 03/09/2020 -- Inspiration comes from various angles. Today, someone who st
 
 Note: 04/18/2020 -- https://spectrum.ieee.org/computing/hardware/heres-a-blueprint-for-a-practical-quantum-computer Very nice view of the status that skirts the hype. 
 
+Note: 05/25/2020 -- Of late, dealing with a 'scale-up' system by playing the user role and noting where there might be nuance'd issues. You know, techies like to point to the user as the culprit in times of grief caused by errors. But, this old guy says, tsk, 'test by death' has been allowed just too long. You know, we have to go back to the story of Babel, almost. Want to know why? Stay tuned. 
+
