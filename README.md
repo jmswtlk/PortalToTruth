@@ -43,3 +43,5 @@ Note: 04/18/2020 -- https://spectrum.ieee.org/computing/hardware/heres-a-bluepri
 
 Note: 05/25/2020 -- Of late, dealing with a 'scale-up' system by playing the user role and noting where there might be nuance'd issues. You know, techies like to point to the user as the culprit in times of grief caused by errors. But, this old guy says, tsk, 'test by death' has been allowed just too long. You know, we have to go back to the story of Babel, almost. Want to know why? Stay tuned. 
 
+Note: 06/03/2020 -- We have information brought to us via the writings of the past which consist of a huge collection. The span of this material might vary by parts of the world, but the extent in years is 1000s. We make, as a culture, note of the role of Islam in preserving some of the material of early Greek origin. Do we look more closely at Islam and its culture in terms of applicability to the future of technology? Ah, the western world brought the marvels of today? The 400-year span of the American experiment can be seen as very pertinent to a more full evolution, where sustainablity gets its due attention.    
+
