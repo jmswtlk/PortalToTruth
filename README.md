@@ -47,3 +47,4 @@ Note: 06/03/2020 -- We have information brought to us via the writings of the pa
 
 Note: 06/19/2020 -- We will get to using GitHub facilities more as we get out of the lockdown mode's constraints. 
 
+Note: 06/29/2020 -- Have a good example of filtering web stuff, where older (not necessarily bad) might be, at least, acknowledged (each idea has a long history - formerly, pruning came due to Okkam's input). 
