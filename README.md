@@ -48,3 +48,6 @@ Note: 06/03/2020 -- We have information brought to us via the writings of the pa
 Note: 06/19/2020 -- We will get to using GitHub facilities more as we get out of the lockdown mode's constraints. 
 
 Note: 06/29/2020 -- Have a good example of filtering web stuff, where older (not necessarily bad) might be, at least, acknowledged (each idea has a long history - formerly, pruning came due to Okkam's input). 
+
+Note: 07/18/2020 -- Either the computational stuff is too much (data science will tell us the horrors of wrangling) or too little (minor noise, like a worrying wart). And, knowledge? Somehow, those called 'deplorable' will be more important than allowed so far as knowledge is top-down driven (science, the main example). 
+
