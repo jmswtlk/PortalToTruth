@@ -1,10 +1,11 @@
 /* writes the HTML for the text roll functions   */
 
 
-/*  keep count in sync with text_roll, array length -1  */
-/*  with zero positioning       length = 19, index up to 18
+/*  keep count in sync with roll_text and
+             roll_text_notes, array length -1  */
+/*  with zero positioning       length = 20, index up to 19
                    including zero    */
-var i = Math.floor((Math.random() * 17));
+var i = Math.floor((Math.random() * 18));
 
 console.log('index = ' + i); 
 

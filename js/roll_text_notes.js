@@ -29,7 +29,9 @@ function showNotes() {
 
 function setRollArray (){
 rollArray = [
-/* if you add a row, update text_parm */
+/* if you add a row, update text_parm and sync with roll_text */
+/* 19 */
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/07/5th-generation.html">5th generation</a>. <br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/07/6th-generation.html">6th generation</a>.<br> 3. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/07/7th-generation.html">7th generation</a>.'], 
 /* 18 */
 ['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2019/10/about-generations.html">About generations</a>. <br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/2018/06/pageant-of-salem.html">Salem Pageant</a>.<br> 3. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/01/america-250.html">American celebrations</a>.'],
 /* 17 */
@@ -66,6 +68,7 @@ rollArray = [
 ['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2016/04/cape-ann-retrospective.html">Cape Ann retrospective</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2013/03/plus-or-minus-arrival.html">Plus or minus the arrival</a>.<br> 3.See <a href= "https://thomasgardnerofsalem.blogspot.com/2013/03/gardners-beacon-vol-iii-no-1.html">Gardner\'s Beacon, Vol. III, No. 1</a>.'],
 /* 1  */
 ['1. See <a href="http://thomasgardnerofsalem.blogspot.com/2014/07/1st-governor.html">1st Governor</a>.<br> 2. See <a href="http://thomasgardnerofsalem.blogspot.com/2012/11/how-many-wives.html">How many wives?</a>.<br>3. See Research Project (<a                         href="http://thomasgardnersociety.org/html/Research/Sherborne.html">Sherborne,Dorset</a>).'],
+/* 0  */
 ['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2014/09/thomas-and-margaret.html">Marriage of Thomas and Margaret</a>. <br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/2018/08/margaret-anew.html">Margaret, anew</a>.<br>3. See <a href="https://www.wikitree.com/wiki/Fryer-892">WikiTree</a>.']
 ]
 }
