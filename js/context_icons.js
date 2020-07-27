@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 432 posts as of 04/30/2020
+         There are 448 posts as of 07/20/2020
 */
 
 function setIconArray (){
@@ -348,7 +348,20 @@ iconArray = [
 ['2020/04/historical-significances', 'HistSignif'],
 ['2020/04/recapping', 'Recapping'],
 ['2020/05/vanity-genealogy', 'PeopleHistory'],
-['2020/05/people-and-history', 'VanityGenealogy']
+['2020/05/people-and-history', 'VanityGenealogy'],
+['2020/05/1900-back', '1900Back'],
+['2020/05/memorial-day', 'MemorialDay'],
+['2020/05/major-players', 'MajorPlayers'],
+['2020/05/going-forward', 'C19Reopens'],
+['2020/06/modes-and-protocols', 'Protocols'],
+['2020/06/back-to-dna-ii', 'BackToDNA'],
+['2020/06/the-future', 'TheFuture'],
+['2020/06/hundred-years', 'HundredYears'],
+['2020/06/of-times', 'OfTheTimes'],
+['2020/06/deeper-dive', 'DeeperDive'],
+['2020/07/7th-generation', '7thGeneration'],
+['2020/07/american-ancestor-database', 'AmAnDatabase'],
+['2020/07/cumberland-pass', 'CumberlandPass']
 
 
  <!-- 2020   plus one anchor -->
