@@ -51,3 +51,5 @@ Note: 06/29/2020 -- Have a good example of filtering web stuff, where older (not
 
 Note: 07/18/2020 -- Either the computational stuff is too much (data science will tell us the horrors of wrangling) or too little (minor noise, like a worrying wart). And, knowledge? Somehow, those called 'deplorable' will be more important than allowed so far as knowledge is top-down driven (science, the main example). 
 
+Note: 08/04/2020 -- Today, got to think about and write on the subject of the applicability of Spinoza's thoughts (yes, Baruch's) on computing. Consider, he's the first programming in a very high-level language. 
+
