@@ -361,8 +361,15 @@ iconArray = [
 ['2020/06/deeper-dive', 'DeeperDive'],
 ['2020/07/7th-generation', '7thGeneration'],
 ['2020/07/american-ancestor-database', 'AmAnDatabase'],
-['2020/07/cumberland-pass', 'CumberlandPass']
-
+['2020/07/cumberland-pass', 'CumberlandGap'],
+['2020/07/6th-generation', '6thGeneration'],
+['2020/07/5th-generation', '5thGeneration'],
+['2020/07/generations-1907-book', 'Gens1907Book'],
+['2020/07/murrey-and-blue', 'MurreyAndBlue'],
+['2020/07/generations-again', 'GenerationsAgain'],
+['2020/08/cumberland-pass', 'CumberlandPass'],
+['2020/08/origins-and-motivations', 'OriginsMotivations'],
+['2020/08/beverly-ma', 'BeverlyMA']
 
  <!-- 2020   plus one anchor -->
 ]
