@@ -369,7 +369,12 @@ iconArray = [
 ['2020/07/generations-again', 'GenerationsAgain'],
 ['2020/08/cumberland-pass', 'CumberlandPass'],
 ['2020/08/origins-and-motivations', 'OriginsMotivations'],
-['2020/08/beverly-ma', 'BeverlyMA']
+['2020/08/beverly-ma', 'BeverlyMA'],
+['2020/08/scholars-in-general', 'Scholars'],
+['2020/08/reasons-for-new-england', 'ReasonsForNE'],
+['2020/08/emily-greene-balch', 'EGBalch'],
+['2020/08/descendants-of-sarah', 'DescendsOfSarah'],
+['2020/08/descendants-of-thomas', 'DescendsOfThomas']
 
  <!-- 2020   plus one anchor -->
 ]
