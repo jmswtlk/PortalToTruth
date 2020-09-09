@@ -53,3 +53,8 @@ Note: 07/18/2020 -- Either the computational stuff is too much (data science wil
 
 Note: 08/04/2020 -- Today, got to think about and write on the subject of the applicability of Spinoza's thoughts (yes, Baruch's) on computing. Consider, he's the first programming in a very high-level language. 
 
+Note: 09/09/2020 -- Following up on Spinoza: https://www.quora.com/q/ptdtnwvuklbksbfj/Spinozas-Ethics-modern-view 
+
+Note: 09/09/2020 -- Tangled web, 'tis: https://spectrum.ieee.org/riskfactor/computing/it/antiphishing-testers-put-themselves-on-the-hook
+
+
