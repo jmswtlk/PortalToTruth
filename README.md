@@ -57,4 +57,7 @@ Note: 09/09/2020 -- Following up on Spinoza: https://www.quora.com/q/ptdtnwvuklb
 
 Note: 09/09/2020 -- Tangled web, 'tis: https://spectrum.ieee.org/riskfactor/computing/it/antiphishing-testers-put-themselves-on-the-hook
 
+Note: 09/15/2020 -- Spent the last two quarters in a user mode (all sorts of environments, applications) so as to get the grunge word out of the horses mouth. Yes. Colonialism and its mindsets are alive and well in SValley (and its peers). However, having said that, application development is much more fun, albeit the cardinalities have blown up everywhere. Some say scale up; I say nope, lucky. So much to discuss and do. https://en.wikipedia.org/wiki/AnTuTu AnTuTu is an example of the development changes, as is, GitHub and its offerings. https://tgsoc.org/tech/2015/04/21/friendly-to-the-mobile-crowd/ So, in terms of getting back to work, we can go back five years in order to relate what we have done here versus the push of industry as a whole. On a reassessment, we're still right on (truth engineering); Spinoza will be a little sidetrack. 
+
+
 
