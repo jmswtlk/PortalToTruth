@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 448 posts as of 07/20/2020
+         There are 483 posts as of 10/24/2020
 */
 
 function setIconArray (){
@@ -374,7 +374,28 @@ iconArray = [
 ['2020/08/reasons-for-new-england', 'ReasonsForNE'],
 ['2020/08/emily-greene-balch', 'EGBalch'],
 ['2020/08/descendants-of-sarah', 'DescendsOfSarah'],
-['2020/08/descendants-of-thomas', 'DescendsOfThomas']
+['2020/08/descendants-of-thomas', 'DescendsOfThomas'],
+['2020/08/boone-himself', 'BooneHimself'],
+['2020/08/us-territory', 'USTerritory'],
+['2020/08/descendants-of-george', 'DescendsOfGeorge'],
+['2020/08/september-already', 'SeptAlready'],
+['2020/09/metricality', 'Metricality'],
+['2020/09/wwtd', 'WWTD'],
+['2020/09/descendants-of-richard', 'DescendsOfRichard'],
+['2020/09/spectral-issues', 'SpectralIssues'],
+['2020/09/175th-for-nehgs', '175thNEHGS'],
+['2020/09/technology-and-content', 'TechnologyAndContent'],
+['2020/09/members-nehgs', 'MembersNEHGS'],
+['2020/09/descendants-of-john', 'DescendsOfJohn'],
+['2020/09/chloe-again', 'ChloeAgain'],
+['2020/09/no-brick-wall', 'NoBrickWall'],
+['2020/10/descendants-of-samuel', 'DescendsOfSamuel'],
+['2020/10/support-specifics', 'SupportSpecifics'],
+['2020/10/great-house-cape-ann', 'GreatHouse'],
+['2020/10/how-to-handle-frontiers', 'Frontiers'],
+['2020/10/descendants-of-seeth', 'DescendsOfSeeth'],
+['2020/10/descendants-of-miriam', 'DescendsOfMiriam'],
+['2020/10/thomas-and-margaret', 'ThomasAndMargaret']
 
  <!-- 2020   plus one anchor -->
 ]
