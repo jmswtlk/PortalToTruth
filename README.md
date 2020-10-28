@@ -61,3 +61,7 @@ Note: 09/15/2020 -- Spent the last two quarters in a user mode (all sorts of env
 
 Note: 09/17/2020 -- Category theory applies, somewhat, especially on that finite/infinite fuzzy line. 
 
+Note: 10/28/2020 -- Wonderful demonstration (JSON mode mimicking Lisp): https://stopa.io/post/265  
+
+
+
