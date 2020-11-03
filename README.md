@@ -63,5 +63,7 @@ Note: 09/17/2020 -- Category theory applies, somewhat, especially on that finite
 
 Note: 10/28/2020 -- Wonderful demonstration (JSON mode mimicking Lisp): https://stopa.io/post/265  
 
+Note: 11/03/2020 -- Gardner's Beacon, Vol. X, No. 1. Done
+
 
 
