@@ -51,3 +51,7 @@ Note:
 
 02/06/2020 -- A key word is 'interactive' in the sense of 'proof' which bears some discussion. https://en.wikipedia.org/wiki/Interactive_proof_system MIP and NEXP mentioned in a recent ACM Communications article on quantum computing. 
 
+12/15/2020 -- One man band, for the most part. Looking for technical talent with an interest in the broad interest of the Thomas Gardner Society, Inc. Technical, for us, means more than software or the computational aspects, as they are mere tools to an end. We have to discuss what those ends are (several) as well as the means associated with them. 
+
+
+
