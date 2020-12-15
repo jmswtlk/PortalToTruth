@@ -67,3 +67,5 @@ Note: 11/03/2020 -- Gardner's Beacon, Vol. X, No. 1. Done
 
 Note: 12/11/2020 -- Paused, a bit, to relook at aNN (neural nets of various types) with respect to the details, especially the technical type. So, with that survey and descent to the guts of the matter, we can start to describe how that thrust relates to how we want to proceed among other things. One focus that we have is truth engineering which is open-ended and beyond those activities related to fact finding. The problems are much deeper than that. 
 
+Note: 12/15/2020 -- For technical stuff, see https://github.com/jmswtlk/PortalToTruth/blob/master/Rlog.md.
+
