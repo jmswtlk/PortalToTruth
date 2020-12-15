@@ -27,6 +27,8 @@ Also, will be using Wiki (to have something familiar - have been hackign with te
 
 13 -- Created the GitHub'ing project for handling overview issues. One of these will be a relook at the movement from .NET (aspx) to Linux/HTML to html/css/js in the context of the PortalToTruth. Then, there will be a recap of 30+ years of AI, in the trenches. Meaning, of course, commercial environment where we were resolving real problems in a timely manner using AI techniques that still have potential life. Perhaps, a hybird view might be necessary in order to integrate with new kid on the block that looks a little overbearing, quite frankly. Lots to discuss. Next step is to create a blog here. 
 
+14 -- See the following Notes with respect to technical activity. As well, the overview discussion is at our Portal to Truth: https://tgsoc.org/. 
+
 ---
 
 Note:
