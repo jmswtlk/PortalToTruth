@@ -395,7 +395,22 @@ iconArray = [
 ['2020/10/how-to-handle-frontiers', 'Frontiers'],
 ['2020/10/descendants-of-seeth', 'DescendsOfSeeth'],
 ['2020/10/descendants-of-miriam', 'DescendsOfMiriam'],
-['2020/10/thomas-and-margaret', 'ThomasAndMargaret']
+['2020/10/thomas-and-margaret', 'ThomasAndMargaret'],
+['2020/10/descendants-finally', 'DescendantsFinally'],
+['2020/10/dar-of-middle', 'MiddleAndOut'],
+['2020/10/the-young-captain', 'TheYoungCaptain'],
+['2020/10/gardners-beacon-vol-x-no-1', 'GB_X_1'],
+['2020/10/dar-as-filter', 'FiltersUse'],
+['2020/10/margaret-friar-wikitree', 'MargaretFriarWT'],
+['2020/10/giles-corey', 'GilesCorey'],
+['2020/10/content-and-configuration', 'ContentConfiguration'],
+['2020/11/more-than-fiddling', 'Fiddling'],
+['2020/11/adams-cousins', 'AdamsCousins'],
+['2020/11/all-that-louisiana-brought', 'WhatLouisianaBrought'],
+['2020/11/american-tinkerer', 'AmTinker'],
+['2020/11/americas-lost-generation', 'AmLostGens'],
+['2020/11/content-can-be-configuration', 'ContentAndConfig'],
+['2020/11/rachel-again', 'JustAnswer']
 
  <!-- 2020   plus one anchor -->
 ]
