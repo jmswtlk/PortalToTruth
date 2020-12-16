@@ -21,7 +21,7 @@ var itext1 = '<ul>';
 
 /* ----  write menu items ---    */
 
-var i;
+var i, lev;
 
 for (i=0; i< itemArray.length; i++) {
 
@@ -32,18 +32,25 @@ for (i=0; i< itemArray.length; i++) {
     itext1+='<li><a class="button" href="';
     if (parm2==1 & (i == 6 || i > 8)) {
        itext1+= '../' + itemArray[i][0] +'">';
+       lev = '../';
            }
     else {
            itext1+= itemArray[i][0] +'">';
+       lev = '';
       }
      }
 
   itext1+= itemArray[i][1] +'</a></li>'
   if (i == 6) { 
-   itext1+='<br><br>';
+   itext1+='<br>';
    } 
   }
 
+/*  put tip jar icon after the menu 
+        being aware of level of context   */
+var tip = '<a href="' + lev + 'biz/default.html"><img src="' + lev + 'icons/TipJar.jpg" alt="" height="" border="0" width=""></a>'; 
+
+itext1+= tip;
 
 /* console.log(itext1); */
 
@@ -64,7 +71,7 @@ itemArray = [
 ['https://thomasgardnersociety.org/html/search.html', 'Search'],
 ['ourRoll.html', 'Roll'],
 ['demo', 'Demo'],
-['biz', 'Biz (Donate)'],
+/*   ['biz', 'Biz (Donate)'],   */
 
 ];
 
