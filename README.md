@@ -69,3 +69,7 @@ Note: 12/11/2020 -- Paused, a bit, to relook at aNN (neural nets of various type
 
 Note: 12/15/2020 -- For technical stuff, see https://github.com/jmswtlk/PortalToTruth/blob/master/Rlog.md.
 
+Note: 12/21/2020 -- First winter day, but spring like. So, outside work. But, then back in to intellectualize. 
+
+
+
