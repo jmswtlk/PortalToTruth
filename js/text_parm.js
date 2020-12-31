@@ -1,13 +1,15 @@
 /* writes the HTML for the text roll functions   */
 
 
-/*  keep count in sync with roll_text and
+/*  keep count in sync with roll_text and 
              roll_text_notes, array length -1  */
-/*  with zero positioning       length = 20, index up to 19
-                   including zero    */
-var i = Math.floor((Math.random() * 18));
-
-console.log('index = ' + i); 
+/*  with zero positioning       array length = 35, 
+                index   0 < i < 35            */
+/*   splitting several entries caused an increase in count */ 
+var i, j;
+j = Math.random();
+i = Math.floor(j * 34.33);
+console.log('ran;ind = ' + j + '; ' + i); 
 
 var result = document.getElementById('setIndx');
 var div = document.createElement('div');

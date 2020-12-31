@@ -20,7 +20,7 @@ function showText() {
 
    i = Math.floor((Math.random() * textArray.length-1) +1);
 
-   itext1 = textArray[i];
+   itext1 = '<small>' + textArray[i] + '</small>';
    console.log(i + ', ' + itext1);
    
    div = document.createElement('div');
@@ -81,7 +81,8 @@ textArray = [
 ['1622 -- Wessagusset colony established by Thomas Weston.'],
 ['Before 1623/24 -- Exploration of the east coast had continued without stop after the 1492 discovery. New England started with the Virginia colony.'],
 ['Before 1623/24 -- As well, English ships had been traveling up and down the coast, mapping the area, looking for spots to fish, or to settle.'], 
-['Before 1623/24 -- Cape Cod had been visited and named as early as 1606 because of the plentiful fish found there. Settlement attempts had been made at several points, from Maine down with Virginia being well-known as the first successful attempt. The Plymouth colony found some success, too, albeit at other than their expected location.'],
+['Before 1623/24 -- Cape Cod had been visited and named as early as 1606 because of the plentiful fish found there.'],
+['Settlement attempts had been made at several points, from Maine down with Virginia being well-known as the first successful attempt. The Plymouth colony found some success, too, albeit at other than their expected location.'],
 ['1622 -- Cape Ann was known, too. Prior to the arrival of the Dorchester group, fishermen from the Plymouth colony had built structures for the drying and salting of their fish catch. Thomas and Margaret wedded.'],
 ['1614/1622 -- Son, Thomas, was born in 1618. Son, George, was born in 1620. Son, Richard, was born in 1621.'],
 ['1622 -- At the time that Rev. John White organized the Cape Ann venture, several other colonization schemes for the same area were in the works in other parts of England. Some of these efforts actually made an attempt by sending settlers.'],
@@ -271,7 +272,7 @@ textArray = [
 ['GBIV4,1525+ – Spain settled Florida. Then, France “established a new colony along the St. Lawrence.”'],
 ['GBIV4,1607 – John Smith located at Jamestown, Va. Mason and Georges settled the area near Kennebec River.'], 
 ['GBIV4,1621 – Plymouth grant included islands south of Cape Cod.'],
-['GBIV4,1635 – Lord Sterling was given the island by King Charles I.'],
+['GBIV4,1635 – Lord Sterling was given Long Island by King Charles I.'],
 ['GBIV4,1637 – James Forrett came to New York to sell, for Lord Sterling, the islands between Cape Code and the Hudson River. At the same time, Sir Ferdinand Georges considers that he owns the islands as part of Maine.'], 
 ['GBIV4,1641 – Thomas Mayhew of Watertown purchased the islands south of Cape Code from James Forrett. It was unsettled whether Mayhew to pay tax to Winthrop or Georges.'],
 ['GBIV4,1659 – Mayhew got twenty purchasers for land on Nantucket.'],
