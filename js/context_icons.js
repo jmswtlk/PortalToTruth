@@ -410,8 +410,14 @@ iconArray = [
 ['2020/11/american-tinkerer', 'AmTinker'],
 ['2020/11/americas-lost-generation', 'AmLostGens'],
 ['2020/11/content-can-be-configuration', 'ContentAndConfig'],
-['2020/11/rachel-again', 'JustAnswer']
-
+['2020/11/rachel-again', 'JustAnswer'],
+['2020/12/11th-december', '11thDecember'],
+['2020/12/feet-dragging', 'FootDrag'],
+['2020/12/ethics-and-value', 'EthicsAndValue'],
+['2020/12/webing', 'Webing'],
+['2020/12/recognition-of-dr-frank', 'RecogOfDrFrank'],
+['2020/12/charles-alcott-flagg', 'CAFlagg'],
+['2020/12/thomas-franklin-waters', 'TFWaters']
  <!-- 2020   plus one anchor -->
 ]
 }
