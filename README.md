@@ -71,6 +71,6 @@ Note: 12/15/2020 -- For technical stuff, see https://github.com/jmswtlk/PortalTo
 
 Note: 12/21/2020 -- First winter day, but spring like. So, outside work. But, then back in to intellectualize. 
 
-Note: 01/24/2021 -- Stopping to look at Julia, programming language (https://github.com/JuliaLang/Julia). 
+Note: 01/24, 26/2021 -- Stopping to look at Julia, programming language (https://github.com/JuliaLang/Julia), ..., found good topic, worthy example (https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl), ..., 
 
 
