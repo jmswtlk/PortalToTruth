@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 483 posts as of 10/24/2020
+         There are 514 posts as of 01/25/2021
 */
 
 function setIconArray (){
@@ -98,10 +98,12 @@ iconArray = [
 ['2011/02/sarah-balch', 'SarahBalch'], 
 ['2011/03/nathaniel-bowditch', 'NathanielBowditch'],
 ['2011/04/lucretia-coffin-mott', 'LucretiaMott'],
+['2011/04/whaling-gardners', 'WhalingGardners'],
+['2011/04/mission-and-method', 'HWElson'],
 ['2011/05/doomsday-book', 'Domesday'],
 ['2011/05/old-planters', 'BeverlyPlanters'],
 ['2011/05/where-is-thomas-ii', 'WhereisThomasII'],
-['2011/05/times-and-more-times', 'TimesandMoreTimes'],
+['2011/05/times-and-more-times', 'DofC'],
 ['2011/06/on-blogs', 'OnBlogs'],
 ['2011/07/richard-and-john', 'RandJandT'],
 ['2011/07/samuel-knapp-gardner', 'Warof1812'],
@@ -417,7 +419,37 @@ iconArray = [
 ['2020/12/webing', 'Webing'],
 ['2020/12/recognition-of-dr-frank', 'RecogOfDrFrank'],
 ['2020/12/charles-alcott-flagg', 'CAFlagg'],
-['2020/12/thomas-franklin-waters', 'TFWaters']
+['2020/12/thomas-franklin-waters', 'TFWaters'],
+['2020/12/revolutionary-experiences', 'RevExps'],
+['2020/12/thomas-gardner', 'ThomasGardner'],
+['2020/12/gardners-beacon-vol-x-no-2', 'GB_X_2'],
+['2021/01/summary-2020', 'Summary2020'],
+['2021/01/american-dream', 'AmericanDream'],
+['2021/01/wikipedia', 'Wiki1'],
+['2021/01/wikipedia-ii', 'Wiki2'],
+['2021/01/maine', 'Maine'],
+['2021/01/research-as-focus', 'MatherDudley'],
+['2021/01/queen-anne', 'QueenAnne'],
+['2021/01/british-cousins', 'BritCuz'],
+['2021/02/american-cousins', 'AmCuz'],
+['2021/02/super-bowl', 'SuperBowl'],
+['2021/02/mississippi-and-fox-rivers', 'Rivers'],
+['2021/02/new-france', 'NewFrance'],
+['2021/02/other-new-attempts', 'OtherNew'],
+['2021/02/rivers-and-more', 'MissFox'],
+['2021/02/gathering-of-trappers', 'Trappers'],
+['2021/02/dorchester-company-further', 'DorchCo'],
+['2021/02/research-notes-rivers', 'ResearchRivers'],
+['2021/02/rootstech', 'RootsTech'],
+['2021/02/new-spain', 'NewSpain'],
+['2021/03/prior-and-next', 'PriorNext'],
+['2021/03/edward-iii', 'EdIII'],
+['2021/03/victory-gardens', 'VictoryGardens'],
+['2021/03/foreign-incursions', 'ForIncurs'],
+['2021/03/pre-civil-war-san-antonio-to-san-diego', 'SanAntSanDieg']
+
+
+
  <!-- 2020   plus one anchor -->
 ]
 }
