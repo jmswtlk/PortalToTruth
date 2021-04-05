@@ -17,9 +17,9 @@ Created the GitHub'ing project. Will split the focus, as appropriate, with a cou
 
 ---
 Temporary area for links about Computing, Lisp and other history:
-http://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html 
-http://jmc.stanford.edu/computing-science/index.html
-https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/early-lisp-history-1956-1959-herbert-stoyan-html-rendering.pdf
+http://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html ; 
+http://jmc.stanford.edu/computing-science/index.html ; 
+https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/early-lisp-history-1956-1959-herbert-stoyan-html-rendering.pdf ; 
 https://medium.com/@nitinpatel_20236/the-early-history-of-lisp-1956-1959-485cd27e3b25
 
 ---
