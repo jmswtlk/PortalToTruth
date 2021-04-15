@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 514 posts as of 01/25/2021
+         There are 540 posts as of 04/11/2021
 */
 
 function setIconArray (){
@@ -446,7 +446,14 @@ iconArray = [
 ['2021/03/edward-iii', 'EdIII'],
 ['2021/03/victory-gardens', 'VictoryGardens'],
 ['2021/03/foreign-incursions', 'ForIncurs'],
-['2021/03/pre-civil-war-san-antonio-to-san-diego', 'SanAntSanDieg']
+['2021/03/pre-civil-war-san-antonio-to-san-diego', 'SanAntSanDieg'],
+['2021/03/hectoring', 'Hector'],
+['2021/03/abe-and-robert', 'LGTyler'],
+['2021/04/wentworth-gardner-house', 'WentGardHouse'],
+['2021/04/in-small', 'SARDAR'],
+['2021/04/border-conflicts', 'BorderConflicts'],
+['2021/04/rendezvous', 'rendezvous'],
+['2021/04/william-gardner', 'WilliamGardner']
 
 
 
