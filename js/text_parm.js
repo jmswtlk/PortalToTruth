@@ -3,12 +3,12 @@
 
 /*  keep count in sync with roll_text and 
              roll_text_notes, array length -1  */
-/*  with zero positioning       array length = 35, 
-                index   0 < i < 35            */
+/*  with zero positioning       array length = 38, 
+                index   0 < i < 38            */
 /*   splitting several entries caused an increase in count */ 
 var i, j;
 j = Math.random();
-i = Math.floor(j * 34.33);
+i = Math.floor(j * 37.33);
 console.log('ran;ind = ' + j + '; ' + i); 
 
 var result = document.getElementById('setIndx');

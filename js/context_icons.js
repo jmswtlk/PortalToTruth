@@ -453,7 +453,14 @@ iconArray = [
 ['2021/04/in-small', 'SARDAR'],
 ['2021/04/border-conflicts', 'BorderConflicts'],
 ['2021/04/rendezvous', 'rendezvous'],
-['2021/04/william-gardner', 'WilliamGardner']
+['2021/04/william-gardner', 'WilliamGardner'],
+['2021/04/ohio-river', 'OhioRiver'],
+['2021/04/unfoldment', 'Unfoldment'],
+['2021/04/frontier-century', 'FrontierCentury'],
+['2021/04/amelia-earhart', 'AmeliaEarhart'],
+['2021/04/400ths', '400ths'],
+['2021/04/conflict-with-american-indian', 'ConflictWithAmericanIndian'],
+['2021/04/two-times', 'TwoTimes']
 
 
 

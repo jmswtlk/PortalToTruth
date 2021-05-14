@@ -30,6 +30,18 @@ function showNotes() {
 function setRollArray (){
 rollArray = [
 /* if you add a row, update text_parm and sync with roll_text */
+/* 26*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/02/rivers-and-more.html">Rivers and more</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/ohio-river.html">Ohio River</a>. <br> 3. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/07/cumberland-pass.html">Cumberland Gap</a> '],
+/* 25*/
+['1. See See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/amelia-earhart.html">Amelia Earhart</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/05/technologys-influence.html">Technology\'s influences</a>.'],
+/* 24*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/400ths.html">400ths</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/05/upcoming-celebrations.html">Upcoming celebrations</a>.<br> 3. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/in-small.html">In the small</a>.'],
+/* 23*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/01/queen-anne.html">Queen Anne</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/01/america-250.html">American 100s</a>. '],
+/* 22 */
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/02/super-bowl.html">Super Bowl</a> (TGS, Inc.). <br> 2. See <a href="https://vitabrevis.americanancestors.org/2021/02/super-bowl-surprise/">Super Bowl surprise</a> (NEHGS). '],
+/* 21 */
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2014/11/historic-nantucket.html">Historic Nantucket</a>.<br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/2011/07/richard-and-john.html">John and Richard (and Thomas)</a>.'],
 /* 20 */
 ['1. See <a href="https://www.wikitree.com/wiki/Balch-6">John Balch - Wikitree</a>. <br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2016/04/cape-ann-retrospective.html">Cape Ann, Retrospective</a>.<br> 3. See <a href="https://thomasgardnerofsalem.blogspot.com/2011/02/sarah-balch.html">Sarah (Gardner) Balch</a>.<br> 4. See <a  href="https://en.wikipedia.org/wiki/List_of_female_Nobel_laureates">List of female Nobel laureates</a> . <br> 5. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/08/emily-greene-balch.html">Emily Greene Balch</a>.'],
 /* 19 */
