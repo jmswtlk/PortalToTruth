@@ -30,6 +30,10 @@ function showNotes() {
 function setRollArray (){
 rollArray = [
 /* if you add a row, update text_parm and sync with roll_text */
+/* 27b*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/11/all-that-louisiana-brought.html">All that Louisiana brought</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/frontier-century.html">Frontier century</a>.'],
+/* 27a*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/11/all-that-louisiana-brought.html">All that Louisiana brought</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/frontier-century.html">Frontier century</a>.'],
 /* 26*/
 ['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/02/rivers-and-more.html">Rivers and more</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/ohio-river.html">Ohio River</a>. <br> 3. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/07/cumberland-pass.html">Cumberland Gap</a> '],
 /* 25*/

@@ -29,6 +29,10 @@ function showRoll() {
 function setRollArray (){
 rollArray = [
 /* if you add a row, update text_parm and sync with roll_text_notes*/
+/* 27b */
+['27b. In 1820, besides the thirteen original States, there were six new southern and three new northern States which came from the Louisiana Purchase.<small><sup>1</sup></small> There were the three Territories of Arkansas, Michigan, and the unorganized area that bordered the Oregon Country of Great Britain and the Spanish possessions along the west coast and the southern interior. The frontier condition of figuring things out lasted for a century.<small><sup>2</sup></small>'],
+/* 27a */
+['27a. Two hundred years ago, the U.S. was in the early process of figuring out how to use what it got with the Louisiana Purchase.<small><sup>1</sup></small> By 1820, new states in the southern part were Florida, Alabama, Mississippi, Louisiana, Tennessee, and Missouri. Northern states were Kentucky, Indiana, and Illinois. This frontier condition lasted for a century.<small><sup>2</sup></small>'],
 /* 26 */
 ['26. Rivers were a huge influence in the frontier experience and will be included as we look at life over the centuries since the Cape Ann experience.<sup><small>1</small></sup> The Ohio River got New Englanders down to the Mississippi River.<sup><small>2</small></sup></font> The Missouri supplied one means for heading west, though the trails were the key means albeit with rivers as major obstacles. Those heading west out of southern New England may have used the Cumberland Gap. The 200th looks at the <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/frontier-century.html">frontier century</a>.'],
 /* 25 */
