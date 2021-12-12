@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 540 posts as of 04/11/2021
+         There are 602 posts as of 12/10/2021
 */
 
 function setIconArray (){
@@ -250,6 +250,7 @@ iconArray = [
 ['2018/07/jedediah-strong-smith', 'JSSinCA_sm'],
 ['2018/08/margaret-anew', 'MargaretAnew'],
 ['2018/09/dr-frank-and-wikitree', 'DrFrank_sm'],
+['2018/09/pressing-day', 'PressingDay'],
 ['2018/10/NewTwist', 'NewTwist'],
 ['2018/10/print-tga-iii-iv-and-gb-iv-v-vi-vii', 'GBandTGA'],
 ['2018/10/the-gardiner-that-was', 'GardinerOR'],
@@ -423,6 +424,7 @@ iconArray = [
 ['2020/12/revolutionary-experiences', 'RevExps'],
 ['2020/12/thomas-gardner', 'ThomasGardner'],
 ['2020/12/gardners-beacon-vol-x-no-2', 'GB_X_2'],
+<!-- 2020   -->
 ['2021/01/summary-2020', 'Summary2020'],
 ['2021/01/american-dream', 'AmericanDream'],
 ['2021/01/wikipedia', 'Wiki1'],
@@ -460,11 +462,75 @@ iconArray = [
 ['2021/04/amelia-earhart', 'AmeliaEarhart'],
 ['2021/04/400ths', '400ths'],
 ['2021/04/conflict-with-american-indian', 'ConflictWithAmericanIndian'],
-['2021/04/two-times', 'TwoTimes']
+['2021/04/two-times', 'TwoTimes'],
+['2021/05/caleb-haskells-diary', 'CalebHaskell'],
+['2021/05/technologys-influence', 'TechInflu'],
+['2021/05/upcoming-celebrations', '250thFacts'],
+['2021/05/trapper-trader-rancher', 'TrapTradRanch'],
+['2021/05/memorial-day-2021', 'MilitaryHistory'],
+['2021/05/enduring-gloucester', 'EnduringGloucester'],
+['2021/06/st-louis-mo-to-san-francisco-ca', 'StLouisToSanFrancisco'],
+['2021/06/hms-resolute', 'HMSResolute'],
+['2021/06/westward-expansion', 'WestwardExpansion'],
+['2021/06/the-naumkeag', 'TheNaumkeag'],
+['2021/06/stateofmo1821', 'StOfMO1821'],
+['2021/06/paper-trails', 'PaperTrails'],
+['2021/06/shipwrights', 'Shipwrights'],
+['2021/06/department-of-interior', 'DeptOfInterior'],
+['2021/06/pace-of-change', 'PaceOfChange'],
+['2021/06/t-e-lawrence', 'TELawrence'],
+['2021/07/carving-land', 'CarvingLand'],
+['2021/07/ai-researched-properly', 'AIResearch'],
+['2021/07/content-and-its-management', 'ContentMgmt'],
+['2021/07/sons-of-american-revolution', 'SAR'],
+['2021/07/grave-abuse', 'GraveAbuse'],
+['2021/07/practice-for-carving', 'PracticeForCarving'],
+['2021/07/travel-and-leisure', 'TravelLeisure'],
+['2021/08/michigan-200-years-ago', 'Mich200YearsAgo'],
+['2021/08/gloucester-400', 'Gloucester400'],
+['2021/08/context-new-england', 'ContextNewEngland'],
+['2021/08/completeness', 'Completeness'],
+['2021/08/different-scopes', 'DifferentScopes'],
+['2021/08/22-aug-1485', '22Aug1485'],
+['2021/08/james-bryant-conant', 'JBConant'],
+['2021/08/titian-exhibit', 'TitianExhibit'],
+['2021/09/joseph-and-seeth', 'JosephSeeth'],
+['2021/09/dudley-family', 'DudleyFamily'],
+['2021/09/two-houses', 'TwoHouses'],
+['2021/09/covid', 'Covid'],
+['2021/09/patriot-to-passenger', 'PatToPass'],
+['2021/09/oregon-or-bust', 'OregonOrBust'],
+['2021/09/modern-genealogy-made-easy', 'ModGen'],
+['2021/09/john-thornton-kirkland', 'JohnTKirkland'],
+['2021/10/history-of-harvard', 'HistOfHarv'],
+['2021/10/connections-by-wikitree', 'ConnByWT'],
+['2021/10/charles-william-eliot', 'CWEliot'],
+['2021/10/research-markers', 'ResearchMarkers'],
+['2021/10/katy-western-railroad', 'KATYWesternRailroad'],
+['2021/10/cape-ann-to-patriot', 'CapeAnnToPatriot'],
+['2021/10/how-dumb-is-ai', 'HowDumbIsAI'],
+['2021/11/generations-and-its-use', 'GenerationsUse'],
+['2021/11/lucy-foster-wilson-gardner', 'LucyFWGardner'],
+['2021/11/sam-dunn', 'SamDunn'],
+['2021/11/eliphalet-pearson', 'EliphaletPearson'],
+['2021/11/favorite-site', 'FavSite'],
+['2021/11/gardners-beacon-vol-xi-no-1', 'GB_XI_1'],
+['2021/11/gardners-beacon', 'StructGB'],
+['2021/12/u-s-interior', 'USInterior'],
+['2021/12/the-willards', 'TheWillards'],
+['2021/12/nathan-pusey', 'NathanPusey'],
+['2021/12/us-and-harvard-i', 'USandHarvard'],
+['2021/12/henry-dunster', 'HenryDunster'],
+['2021/12/charles-dickens', 'Dickens1842']
+
+
+<!-- 2021   -->
 
 
 
- <!-- 2020   plus one anchor -->
+
+<!-- 2022   -->
+ <!--  plus one anchor -->
 ]
 }
 

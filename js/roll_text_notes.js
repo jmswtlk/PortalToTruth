@@ -30,9 +30,19 @@ function showNotes() {
 function setRollArray (){
 rollArray = [
 /* if you add a row, update text_parm and sync with roll_text */
-/* 27b*/
-['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/11/all-that-louisiana-brought.html">All that Louisiana brought</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/frontier-century.html">Frontier century</a>.'],
+/* 30a*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2019/09/3-trails.html">3 Trails</a>.<br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/03/pre-civil-war-san-antonio-to-san-diego.html">Pre-Civil War, San Antonio to San Diego</a>.'],
+/* 30b*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/03/pre-civil-war-san-antonio-to-san-diego.html">Pre-Civil-War, San Antonio to San Diego</a>.'],
+/* 30c*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/03/pre-civil-war-san-antonio-to-san-diego.html">Pre-Civil-War, San Antonio to San Diego</a>.'],
+/* 29*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/05/trapper-trader-rancher.html">Trapper, Trader, Rancher</a>.<br>2. See <a href="https://en.wikipedia.org/wiki/Fort_Belle_Fontaine">Fort Bell Fontaine</a>. '],
+/* 28*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/05/upcoming-celebrations.html">Upcoming celebrations</a>.<br> 2. See <a href="https://en.wikipedia.org/wiki/1790 _United_States_census">1790 U.S. Census</a>. '],
 /* 27a*/
+['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/11/all-that-louisiana-brought.html">All that Louisiana brought</a>.<br>2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/frontier-century.html">Frontier century</a>.'],
+/* 27b*/
 ['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/11/all-that-louisiana-brought.html">All that Louisiana brought</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/frontier-century.html">Frontier century</a>.'],
 /* 26*/
 ['1. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/02/rivers-and-more.html">Rivers and more</a>.<br> 2. See <a href="https://thomasgardnerofsalem.blogspot.com/2021/04/ohio-river.html">Ohio River</a>. <br> 3. See <a href="https://thomasgardnerofsalem.blogspot.com/2020/07/cumberland-pass.html">Cumberland Gap</a> '],
