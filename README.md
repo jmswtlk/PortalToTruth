@@ -81,4 +81,5 @@ Note: 01/24, 26/2021 -- Stopping to look at Julia, programming language (https:/
 
 Note: 03/28/2021 -- So, was off to deep dive, in the real sense, into the philosophy of mathematics with an operational flavor which implies, yes, applied work which is never ending, essentially. The portal has been updated as we also are covering several domains some of which have really had no proper focus. There is one thing that has stood out through the ins and outs of the past few months where Bourbaki was there as a backbone albeit with several extensions by others in different areas. The computer has ultimately change the nature of mathematics. Guess what? The philosophy of mathematics was never taken serious as many figured such concerns to be of no interest or of little matter. That will change. Along another line, have a grasp of what's the intriguing aspect of 'deep learning' and of the inadequate explanations found so far. 
 
+Note: 12/18/2021 -- Lots going on. DAR, BOMC, TGS, Truth Engineering, etc. 
 
