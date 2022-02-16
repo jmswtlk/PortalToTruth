@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 602 posts as of 12/10/2021
+         There are 614 posts as of 12/31/2021
 */
 
 function setIconArray (){
@@ -521,12 +521,24 @@ iconArray = [
 ['2021/12/nathan-pusey', 'NathanPusey'],
 ['2021/12/us-and-harvard-i', 'USandHarvard'],
 ['2021/12/henry-dunster', 'HenryDunster'],
-['2021/12/charles-dickens', 'Dickens1842']
-
-
+['2021/12/charles-dickens', 'Dickens1842'],
+['2021/12/josiah-quincy', 'JQuincyIII'],
+['2021/12/ralph-waldo-emerson', 'RWaldoE'],
+['2021/12/other-deans', 'OtherDeans'],
+['2021/12/yellowstone-plus', 'YellowStonePlus'],
+['2021/12/colonel-john-glover', 'ColJohnGlover'],
+['2021/12/old-in-new-england', 'OldNewEngland'],
+['2021/12/gardners-beacon-vol-xi-no-2', 'GB_XI_2'],
 <!-- 2021   -->
-
-
+['2022/01/current-challenge', 'CurrChallenge'],
+['2022/01/challenges-of-technology', 'ChallOfTech'],
+['2022/01/abbot-lawrence-lowell', 'ALawrenceLowell'],
+['2022/01/boston-brahmins', 'BostonBrahmins'],
+['2022/01/weymouth-ma', 'WeymouthMA'],
+['2022/01/four-masted-barque-rounding-cape-horn', 'CapeHorn'],
+['2022/01/samuel-webber', 'SamuelWebber'],
+['2022/01/charles-chauncy', 'CharlesChauncy'],
+['2022/01/schools-new-england-and-beyond', 'SchoolsNewEngland']
 
 
 <!-- 2022   -->
