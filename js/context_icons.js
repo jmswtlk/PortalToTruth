@@ -14,7 +14,7 @@ var iconArray = new Array;
 setIconArray();
 
 var lngth = iconArray.length+1;
-var iwidth = iconArray.length * 108;
+var iwidth = iconArray.length * 107;
 
 console.log('#images = ' + lngth + ', width = ' + iwidth);
 
@@ -251,7 +251,7 @@ iconArray = [
 ['2018/08/margaret-anew', 'MargaretAnew'],
 ['2018/09/dr-frank-and-wikitree', 'DrFrank_sm'],
 ['2018/09/pressing-day', 'PressingDay'],
-['2018/10/NewTwist', 'NewTwist'],
+['2018/10/new-twist', 'NewTwist'],
 ['2018/10/print-tga-iii-iv-and-gb-iv-v-vi-vii', 'GBandTGA'],
 ['2018/10/the-gardiner-that-was', 'GardinerOR'],
 ['2018/10/gardner-families-and-maine', 'GardnersMaine'],
@@ -538,7 +538,27 @@ iconArray = [
 ['2022/01/four-masted-barque-rounding-cape-horn', 'CapeHorn'],
 ['2022/01/samuel-webber', 'SamuelWebber'],
 ['2022/01/charles-chauncy', 'CharlesChauncy'],
-['2022/01/schools-new-england-and-beyond', 'SchoolsNewEngland']
+['2022/01/schools-new-england-and-beyond', 'SchoolsNewEngland'],
+['2022/02/magna-carta-technical', 'MagnaCartaTech'],
+['2022/02/increase-mather', 'IncreaseMather'],
+['2022/02/leonard-hoar', 'LeonardHoar'],
+['2022/02/samuel-locke', 'SamuelLocke'],
+['2022/02/the-downings', 'TheDownings'],
+['2022/02/cms-favorite-subject', 'CMSFavSubject'],
+['2022/02/hearty-canadians', 'HeartyCanadians'],
+['2022/03/secret-six', 'SecretSix'],
+['2022/03/gairdner-foundation', 'GairdnerFoundation'],
+['2022/03/drew-gilpin-faust', 'DrewGilpinFaust'],
+['2022/03/john-leverett', 'JohnLeverett'],
+['2022/03/emmy-noether', 'EmmyNoether'],
+['2022/03/john-tilley', 'JohnTilley'],
+['2022/03/joseph-b-felt', 'JBFelt'],
+['2022/03/womens-history-month', 'WomensHistoryMonth'],
+['2022/03/whos-on-first', 'WhosOnFirst'],
+['2022/03/gardners-beacon-vol-xii-no-1', 'GB_XII_1']
+
+
+
 
 
 <!-- 2022   -->
