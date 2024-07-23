@@ -77,7 +77,7 @@ itext1+=itext;
 }
 
 /* count of posts covered by year
-         There are 614 posts as of 12/31/2021
+         There are 680 posts as of 09/21/2022
 */
 
 function setIconArray (){
@@ -550,18 +550,73 @@ iconArray = [
 ['2022/03/gairdner-foundation', 'GairdnerFoundation'],
 ['2022/03/drew-gilpin-faust', 'DrewGilpinFaust'],
 ['2022/03/john-leverett', 'JohnLeverett'],
-['2022/03/emmy-noether', 'EmmyNoether'],
+['2022/03/bryn-mawr', 'EmmyNoether'],
 ['2022/03/john-tilley', 'JohnTilley'],
 ['2022/03/joseph-b-felt', 'JBFelt'],
 ['2022/03/womens-history-month', 'WomensHistoryMonth'],
 ['2022/03/whos-on-first', 'WhosOnFirst'],
-['2022/03/gardners-beacon-vol-xii-no-1', 'GB_XII_1']
-
-
-
-
-
+['2022/03/gardners-beacon-vol-xii-no-1', 'GB_XII_1'],
+['2022/04/lorenzo-and-peggy', 'LorenzoPeggy'],
+['2022/04/benjamin-wadsworth', 'BenjaminWadsworth'],
+['2022/04/roger-conant', 'RogerConant'],
+['2022/04/the-american-character', 'AmericanChar'],
+['2022/04/lexington-concord', 'LexingtonConcord'],
+['2022/04/william-s-barstow', 'WilliamSBarstow'],
+['2022/04/cambridge', 'Cambridge'],
+['2022/04/edward-everett', 'EdwardEverett'],
+['2022/04/daughters-of-american-revolution-dar', 'DAR'],
+['2022/05/legacies-of-harvard', 'LegaciesHarvard'],
+['2022/05/tldr-new-spain-came-into-discussion', 'NewSpainSpan'],
+['2022/05/john-rogers', 'JohnRogers'],
+['2022/05/oldest-universities', 'OldestUnivsNE'],
+['2022/05/oldest-universities-new-spain', 'OldestUnivsSp'],
+['2022/05/pony-express', 'PonyExpress'],
+['2022/05/memorial-day-2022', 'MemorialDay'],
+['2022/06/fifteen-colonies', 'FifteenColonies'],
+['2022/06/no-hiatus', 'NoHiatus'],
+['2022/06/east-meets-west', 'EastMeetsWest'],
+['2022/06/400th-finally', '400thFinally'],
+['2022/06/a-ride-to-kansas', 'RideToKansas'],
+['2022/06/edward-holyoke', 'EdwardHolyoke'],
+['2022/07/the-heterodoxy-club', 'HeterodoxyClub'],
+['2022/07/gerry-mander', 'GerryMander'],
+['2022/07/8th-generation', '8thGen'],
+['2022/07/1900-forward', '1900Forward'],
+['2022/07/samuel-langdon', 'SamuelLangdon'],
+['2022/07/rev-nathaniel-eaton', 'RevNathanielEaton'],
+['2022/07/celebrity-threads', 'CelebrityThreads'],
+['2022/08/new-missouri', 'NewMissouri'],
+['2022/08/cornelius-conway-felton', 'CCFelton'],
+['2022/08/the-english-language-project', 'ELP'],
+['2022/08/essex-county-then-and-now', 'EssexCo'],
+['2022/08/essex-county-timeline', 'EssexCoTimeL'],
+['2022/08/recap-again', 'RecapAgain'],
+['2022/08/jared-sparks', 'JaredSparks'],
+['2022/09/james-walker', 'JamesWalker'],
+['2022/09/north-american-review', 'NorthAmericanReview'],
+['2022/09/shipbuilding-in-essex', 'ShipsInEssex'],
+['2022/09/england-and-us', 'EnglandAndUs'],
+['2022/09/tours-of-real', 'ToursReal'],
+['2022/09/john-winthrop-educator', 'JohnWinthropED'],
+['2022/09/water-and-air', 'WaterAir'],
+['2022/09/brigadier-general-joseph-gardner-swift', 'BGenJGSwift'],
+['2022/09/blended-family', 'BlendedFamily'],
+['2022/09/rev-higginson-and-family', 'RevHiggFamily'],
+['2022/09/gardners-beacon-vol-xii-no-2', 'GB_XII_2'],
+['2022/10/content-again', 'ContentAgain'],
+['2022/10/u-s-and-harvard-ii', 'USHarvard'],
+['2022/10/secret-six-rest', 'SecretSixRest'],
+['2022/10/hector-st-john', 'HectorStJohn'],
+['2022/10/thomas-hill', 'ThomasHill'],
+['2022/10/newbury-essex-county-ma', 'NewburyEssex'],
+['2022/10/time-lines', 'PaulCarus'],
+['2022/10/derek-bok', 'DerekBok']
+<!--  add in Nov and Dec  -->
 <!-- 2022   -->
+<!--  add in Jan thru Dec  -->
+<!-- 2023   -->
+
+
  <!--  plus one anchor -->
 ]
 }
