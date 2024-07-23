@@ -30,7 +30,7 @@ for (i=0; i< itemArray.length; i++) {
    }
   else { 
     itext1+='<li><a class="button" href="';
-    if (parm2==1 & (i == 6 || i > 8)) {
+    if (parm2==1 & (i == 5 || i == 6 || i > 8)) {
        itext1+= '../' + itemArray[i][0] +'">';
        lev = '../';
            }
@@ -65,12 +65,14 @@ itemArray = [
 ['https://thomasgardnerofsalem.blogspot.com', 'Context blog'],
 ['https://tgsoc.org/tech/', 'Technology blog'],
 ['https://www.facebook.com/ThomasGardnerofSalem', 'FB page'],
-['https://thomasgardnersociety.org/devlog.html', 'Devlog'],
+['demo', 'Devlog'],
 ['Publications', 'Publications (Order)'],
 ['https://www.wikitree.com/wiki/Gardner-159', 'WikiTree'],
 ['https://thomasgardnersociety.org/html/search.html', 'Search'],
 ['ourRoll.html', 'Roll'],
-['demo', 'Demo'],
+['papers', 'Papers'],
+
+/*   ['demo', 'Demo'],        */
 /*   ['biz', 'Biz (Donate)'],   */
 
 ];
